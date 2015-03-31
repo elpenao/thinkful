@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+from pandas.tools.plotting import scatter_matrix
 
 loansData = pd.read_csv('https://spark-public.s3.amazonaws.com/dataanalysis/loansData.csv')
 
@@ -22,4 +23,11 @@ plt.figure()
 p = loansData['FICO.Score'].hist()
 plt.show()
 
+plt.figure()
+a = pd.scatter_matrix(loansData, alpha=0.05, figsize=(10,10))
+plt.show()
+
+plt.figure()
+a = pd.scatter_matrix(loansData, alpha=0.05, figsize=(10,10), diagonal='hist')
+plt.show()
 
