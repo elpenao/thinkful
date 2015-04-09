@@ -33,21 +33,18 @@ median = str(median)
 print "alcohol median " + median
 
 # If all numbers occur equally often, stats.mode() will return the smallest number
-mode = stats.mode(df['Alcohol']) 
-mode = str(mode)
-print "alcohol mode: " + mode
+mode = stats.mode(df['Alcohol'])[0][0]
+print "alcohol mode: ", mode
 
-tmean = df['Tobacco'].mean() 
-tmean = str(tmean)
-print "tobacco mean: " + tmean
+tmean = df['Tobacco'].mean()[0][0]
+print "tobacco mean: ", tmean
 
-tmedian = df['Tobacco'].median()
-tmedian = str(tmedian) 
-print "tobacco median: " + tmedian
+tmedian = df['Tobacco'].median()[0][0]
+print "tobacco median: ", tmedian
 
-tmode = stats.mode(df['Tobacco']) 
+tmode = stats.mode(df['Tobacco'])[0][0]
 tmode = str(tmode)
-print "tobacco mode: " + tmode
+print "tobacco mode: ", tmode
 
 arange = max(df['Alcohol']) - min(df['Alcohol'])
 print "alcohol range: " + str(arange)
