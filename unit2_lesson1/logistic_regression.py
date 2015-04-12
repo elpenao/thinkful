@@ -28,27 +28,12 @@ lessthan12 = loansData['lessthan12']
 loanLength = loansData['Loan.Length']
 constant = loansData['constant']
 
-# The dependent variable
-y = np.matrix(intrate).transpose()
-# The independent variables shaped as columns
-x0 = np.matrix(constant).transpose()
-x1 = np.matrix(fico).transpose()
-x2 = np.matrix(loanamt).transpose()
-x3 = np.matrix(lessthan12).transpose()
-x4 = np.matrix(loanLength).transpose()
+ind_vars = ['Interest.Rate','Amount.Requested','FICO.Score','Loan.Length','constant']
 
-x = np.column_stack([x0,x1,x2,x3,x4])
+logit = sm.Logit(loansData['lessthan12'], loansData[ind_vars])
 
-X = sm.add_constant(x)
-model = sm.OLS(y,X)
-f = model.fit()
+result = logit.fit()
 
-print 'Coefficients: ', f.params[0:2]
-print 'Intercept: ', f.params[2]
-print 'P-Values: ', f.pvalues
-print 'R-Squared: ', f.rsquared
-
-ind_vars = list(loansData)
-
-print ind_vars
+coeff = result.params
+print coeff
 
