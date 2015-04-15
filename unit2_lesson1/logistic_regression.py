@@ -58,15 +58,26 @@ def logistic_function(score,amount):
 
 logistic_function(800,10000)
 
-# The dependent variable
-y = np.matrix(intrate).transpose()
-# The independent variables shaped as columns
-x1 = np.matrix(fico).transpose()
-x2 = np.matrix(loanamt).transpose()
+columns = ['score', 'amount']
+index = np.arange(5000) #
+df_t = pd.DataFrame(columns=columns, index = index)
 
-x = np.column_stack([x1,x2])
+columns = ['score', 'amount']
+index = np.arange(5000) #
+df_f = pd.DataFrame(columns=columns, index = index)
 
-X = sm.add_constant(x)
-model = sm.OLS(y,X)
-f = model.fit()
+
+for index, row in loansData.iterrows():
+	if row['lessthan12'] == 0:
+		df_f['score'] = row['FICO.Score']
+		df_f['amount'] = row['Amount.Requested']
+	else:
+		df_t['score'] = row['FICO.Score']
+		df_t['amount'] = row['Amount.Requested']
+
+print df_t[0:100]
+print df_f[0:100]
+
+
+
 
