@@ -29,6 +29,11 @@ x2 = np.matrix(loanamt).transpose()
 
 x = np.column_stack([x1,x2])
 
+Xmat = sm.add_constant(df[['x1', 'x2']].values, prepend = True)
+yvec = df['y'].values
+ols_model = OLS(yvec, Xmat).fit()
+
+
 X = sm.add_constant(x)
 model = sm.OLS(y,X)
 f = model.fit()

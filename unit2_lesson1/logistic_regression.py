@@ -58,25 +58,32 @@ def logistic_function(score,amount):
 
 logistic_function(800,10000)
 
-columns = ['score', 'amount']
-index = np.arange(5000) #
-df_t = pd.DataFrame(columns=columns, index = index)
+df_t_score = []
+df_t_amount = []
 
-columns = ['score', 'amount']
-index = np.arange(5000) #
-df_f = pd.DataFrame(columns=columns, index = index)
-
+df_f_score = []
+df_f_amount = []
 
 for index, row in loansData.iterrows():
-	if row['lessthan12'] == 0:
-		df_f['score'] = row['FICO.Score']
-		df_f['amount'] = row['Amount.Requested']
+	if row['lessthan12'] == True:
+		df_t_score.append(row['FICO.Score'])
+		df_t_amount.append(row['Amount.Requested'])
 	else:
-		df_t['score'] = row['FICO.Score']
-		df_t['amount'] = row['Amount.Requested']
+		df_f_score.append(row['FICO.Score'])
+		df_f_amount.append(row['Amount.Requested'])
 
-print df_t[0:100]
-print df_f[0:100]
+fig = plt.figure(figsize = (10, 8))
+
+plt.plot(df_t_score, df_t_amount, label = 'True',
+mfc = 'None', mec='coral', alpha = .3)
+
+plt.plot(df_f_score, df_f_amount, label = 'False',
+mfc = 'None', mec='steelblue', alpha = .3)
+
+plt.xlabel('Score')
+plt.ylabel('Loan Amount')
+plt.legend(loc='upper left')
+plt.show()
 
 
 
