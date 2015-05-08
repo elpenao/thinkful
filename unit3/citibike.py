@@ -7,6 +7,8 @@ import pandas as pd
 
 con = lite.connect('citi_bike.db')
 cur = con.cursor()
+cur.execute('DELETE FROM available_bikes')
+con.commit()
 
 for i in range(60):
     r = requests.get('http://www.citibikenyc.com/stations/json')
@@ -25,3 +27,4 @@ for i in range(60):
 
     time.sleep(60)
 con.close() #close the database connection when done
+
