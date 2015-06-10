@@ -1,0 +1,890 @@
+DVM ID,Practice Name,Active,Partner,State,Zip,Marketing Email Pref,Vet Users,Staff Users,totalRev,avgMonthlyRev,avgMonthlyRevPerUser,wRx,cRx,monthlyRxTot,clients,emails,bracket
+1948,San Francisco SPCA Veterinary Hospital,1,IMA Partner,CA,94103,Companion Animal,44,13,12739.06,1061.59,18.62,28,11,2,70430,21166,2
+4623,Pet Haven Veterinary Clinic,1,VBS Partner,KS,67203,Companion Animal,11,2,13724.66,1143.72,87.98,65,20,5,35250,6382,2
+2182,Geary Veterinary Services LLC,1,IMA Partner,PA,15456,Companion Animal,1,1,7647.6,637.3,318.65,7,5,1,34593,2054,1
+2144,Lakeside Animal Hospital,1,IMA Partner,VA,23228,Companion Animal,5,3,5449.67,454.14,56.77,1,1,0,27735,3663,1
+2155,Barrington Oaks Veterinary Hospital,1,IMA Partner,MN,55330,Companion Animal,10,1,4306.11,358.84,32.62,6,2,1,23112,5664,1
+2433,Fairmount Animal Hospital,1,VBS Partner,NY,13219,Companion Animal,17,19,22355.59,1862.97,51.75,150,102,13,23021,4665,2
+2261,Center Moriches Veterinary Hospital,1,IMA Partner,NY,11934,Companion Animal,5,1,4078.65,339.89,56.65,2,2,0,19810,2430,1
+5624,Southern Veterinary Center,1,VBS Partner,TN,37167,Companion Animal,5,1,20689.71,1724.14,287.36,33,14,3,19788,2041,2
+2761,Woodmar Animal Clinic,1,VBS Partner,IN,46324,Companion Animal,5,1,14670.52,1222.54,203.76,66,34,6,17706,1785,2
+2955,Desert Veterinary Clinic,1,VBS Partner,WA,99352,Companion Animal,7,2,11558.77,963.23,107.03,9,6,1,17489,4563,1
+4686,Moon Veterinary Hospital PC,1,VBS Partner,PA,15108,Companion Animal,7,3,20745.35,1728.78,172.88,15,6,1,17488,1500,2
+3002,Caring Hands Animal Hospital of Arlington,1,VBS Partner,VA,22206,Companion Animal,17,18,6294.27,524.52,14.99,18,9,2,17231,14352,1
+5764,Woodland West Animal Hospital,1,VBS Partner,OK,74132,Companion Animal,7,23,21277.74,1773.15,59.1,33,18,3,16612,5014,2
+2104,Kittery Animal Hospital Inc.,1,IMA Partner,ME,3904,Companion Animal,5,5,9193.22,766.1,76.61,94,33,8,16346,2060,1
+5820,Green Mountain Animal Hospital,1,VBS Partner,VT,5403,Companion Animal,5,1,22231.79,1852.65,308.77,13,10,1,16326,2420,2
+3234,Amazon Animal Hospital,1,VBS Partner,CA,91911,Companion Animal,1,1,6542.46,545.21,272.6,3,2,0,16132,1995,1
+1909,"Vale Park Animal Hospital, LLC",1,IMA Partner,IN,46383,Companion Animal,6,2,10791.81,899.32,112.41,11,6,1,15721,4921,1
+5726,Animal Care Center of Topeka,1,VBS Partner,KS,66607,Companion Animal,2,2,2345.02,195.42,48.85,5,3,0,15324,1456,1
+2038,Biddeford Animal Hospital,1,IMA Partner,ME,4005,Companion Animal,6,1,1751.96,146,20.86,18,12,2,14306,1838,1
+2197,Wildwood Animal Hospital,1,VBS Partner,WI,54449,Companion Animal,5,2,5450.94,454.25,64.89,44,24,4,14175,1513,1
+3341,Animal Hospital of Montgomery,1,VBS Partner,AL,36109,Companion Animal,1,1,6799,566.58,283.29,5,2,0,13560,734,1
+2210,"Boone County Veterinary Clinic, Inc.",1,IMA Partner,AR,72601,Companion Animal,3,9,6559.16,546.6,45.55,2,2,0,13284,811,1
+3509,"Chillicothe Animal Clinic, Inc.",1,VBS Partner,OH,45601,Companion Animal,6,1,3668.49,305.71,43.67,3,3,0,13219,3247,1
+75469,Animal Hospital of North Alabama,1,VBS Partner,AL,35750,Companion Animal,3,2,6045.03,503.75,100.75,11,6,1,12922,373,1
+4423,Lamczyk Veterinary Clinic LLC,1,VBS Partner,IL,62864,Companion Animal,5,1,9467.72,788.98,131.5,21,11,2,12904,2632,1
+2459,El Dorado Animal Hospital,1,VBS Partner,AR,71730,Companion Animal,2,0,3714.5,309.54,154.77,0,0,0,12737,193,1
+5914,DeKalb Animal Hospital,1,IMA Partner,GA,30084,Companion Animal,4,15,25281.45,2106.79,110.88,76,44,6,12410,4462,3
+4661,Animal General,1,VBS Partner,NY,10024,Companion Animal,7,0,7050.61,587.55,83.94,9,5,1,12251,2694,1
+2463,Inwood Animal Center,1,VBS Partner,WV,25428,Companion Animal,18,2,9354.31,779.53,38.98,9,5,1,12215,3083,1
+3346,Animal Care Center of Weeki Wachee,1,VBS Partner,FL,34613,Companion Animal,3,0,12044.79,1003.73,334.58,19,12,2,11689,2581,2
+2086,Hardee Animal Clinic,1,IMA Partner,FL,33873,Companion Animal,1,1,13302.33,1108.53,554.26,7,6,1,11662,1677,2
+5825,Anderson Animal Clinic,1,VBS Partner,FL,33876,Companion Animal,2,1,12506.81,1042.23,347.41,11,5,1,11594,806,2
+4539,Greenbelt Veterinary Hospital,1,IMA Partner,TX,79705,Companion Animal,11,4,16504.47,1375.37,91.69,5,4,0,11259,4702,2
+4613,Spay Now Animal Surgery Clinic,1,VBS Partner,MD,21638,Companion Animal,6,12,10127.41,843.95,46.89,96,24,8,11107,2328,1
+1878,Enfield Animal Hospital,1,IMA Partner,CT,6082,Companion Animal,7,2,24870.53,2072.54,230.28,11,7,1,10867,889,3
+2083,Lifetime Animal Center LLC,1,IMA Partner,MO,64093,Companion Animal,3,2,16471.97,1372.66,274.53,74,38,6,10832,2413,2
+3443,Feather & Fur Animal Clinic,1,VBS Partner,HI,96734,Companion Animal,13,0,25070.95,2089.25,160.71,6,3,1,10796,7236,3
+2282,Lake Harbin Animal Hospital,1,IMA Partner,GA,30260,Companion Animal,3,8,10512.45,876.04,79.64,11,6,1,10714,525,1
+1903,Herkimer Veterinary Associates,1,IMA Partner,NY,13350,Companion Animal,6,1,22425.75,1868.81,266.97,59,32,5,10636,1044,2
+1997,Concord Pike Veterinary Hospital,1,VBS Partner,PA,19317,Companion Animal,5,3,22289.57,1857.46,232.18,8,6,1,10566,1651,2
+2052,Sheehy Animal Hospital,1,IMA Partner,MI,48152,Companion Animal,2,10,3360.9,280.08,23.34,3,2,0,10507,3111,1
+4680,Animal Medical Center,1,VBS Partner,IN,46219,Companion Animal,7,1,4334.22,361.19,45.15,12,11,1,10482,1813,1
+3514,Garden Grove Animal Hospital,1,VBS Partner,FL,33884,Companion Animal,2,0,7729.35,644.11,322.06,10,10,1,10465,1237,1
+15762,Dickinson County Animal Clinic,1,VBS Partner,IA,51360,Companion Animal,2,2,3077.64,256.47,64.12,48,13,4,10302,679,1
+4511,Capitol Hill Animal Clinic,1,VBS Partner,DC,20003,Companion Animal,3,0,17424.34,1452.03,484.01,90,50,8,10091,4344,2
+2618,Camboro Veterinary Hospital,1,VBS Partner,PA,16412,Companion Animal,10,1,28199.09,2349.92,213.63,30,16,3,10035,4901,3
+2059,Mount Vernon Animal Hospital,1,VBS Partner,OH,43050,Companion Animal,4,3,5467.33,455.61,65.09,0,0,0,9726,1020,1
+2843,"King of Prussia Veterinary Hospital, PC",1,VBS Partner,PA,19406,Companion Animal,3,1,23359.49,1946.62,486.66,11,4,1,9644,2863,2
+3689,Fairbanks Animal Clinic,1,VBS Partner,TX,77040,Companion Animal,13,5,19034.62,1586.22,88.12,42,27,4,9458,3244,2
+1928,Eastridge Animal Center,1,IMA Partner,IA,50049,Companion Animal,2,2,931.4,77.62,19.4,0,0,0,9402,407,1
+4021,Deer Run Veterinary Hospital,1,VBS Partner,MA,2536,Companion Animal,6,0,4975.91,414.66,69.11,3,1,0,9355,1154,1
+1919,Runaway Farm Pet Hospital,1,IMA Partner,PA,18073,Companion Animal,1,1,958.28,79.86,39.93,1,0,0,9291,306,1
+2080,Grace Animal Hospital and Pet Lodge,1,IMA Partner,SC,29072,Companion Animal,4,1,26354.61,2196.22,439.24,10,9,1,9085,1468,3
+1956,Madison Veterinary Hospital PC,1,IMA Partner,MI,48071,Companion Animal,5,1,4988.59,415.72,69.29,1,0,0,9032,4976,1
+2109,Steel Veterinary Services,1,IMA Partner,PA,15301,Companion Animal,1,1,17201.31,1433.44,716.72,131,30,11,9011,31,2
+2183,"Oceanview Veterinary Hospital, Inc",1,IMA Partner,FL,32250,Companion Animal,2,0,7534.17,627.85,313.92,11,8,1,8969,1825,1
+3030,"Valley Veterinary Service, Inc.",1,VBS Partner,PA,15012,Companion Animal,3,2,3622.8,301.9,60.38,6,6,1,8768,3554,1
+5826,"Eagle's Landing Veterinary Hospital (Vet Aerie, PC)",1,VBS Partner,GA,30253,Companion Animal,6,5,16267.17,1355.6,123.24,181,75,15,8635,4575,2
+2274,"Country View Veterinary Service, Inc.",1,IMA Partner,WI,53575,Companion Animal,13,1,16275.57,1356.3,96.88,55,30,5,8479,2674,2
+3990,Franklin Animal Clinic,1,VBS Partner,PA,16323,Companion Animal,6,0,11422.81,951.9,158.65,6,5,1,8298,1607,1
+4220,"Tupelo Small Animal Hospital, P.A.",1,VBS Partner,MS,38801,Companion Animal,4,1,16869.72,1405.81,281.16,4,3,0,8265,3865,2
+3377,City Cat Doctor,1,IMA Partner,IL,60610,Companion Animal,11,2,1239.85,103.32,7.95,0,0,0,8103,2559,1
+2058,Bethany Centennial Animal Hospital,1,IMA Partner,MD,21042,Companion Animal,4,1,18604.76,1550.4,310.08,0,0,0,8078,1893,2
+3301,County Animal Hospital,1,VBS Partner,NY,10956,Companion Animal,2,0,7960.06,663.34,331.67,18,12,2,7954,1685,1
+2221,Bonita Veterinary Hospital,1,IMA Partner,FL,34134,Companion Animal,4,1,20494.53,1707.88,341.58,5,3,0,7952,3349,2
+2272,Seneca Animal Hospital PA,1,IMA Partner,SC,29678,Companion Animal,3,4,9079.06,756.59,108.08,17,4,1,7920,2224,1
+3375,DeWitt Animal Hospital,1,VBS Partner,MA,2762,Companion Animal,8,1,21416.63,1784.72,198.3,60,38,5,7865,2525,2
+2131,New River Animal Hospital,1,IMA Partner,WV,25978,Companion Animal,5,13,4924.72,410.39,22.8,6,5,1,7758,202,1
+3195,Animal Hospital of Redondo Beach,1,VBS Partner,CA,90277,Companion Animal,7,11,28458.44,2371.54,131.75,107,52,9,7746,3138,3
+2452,Independence Animal Hospital,1,VBS Partner,KS,67301,Companion Animal,2,0,2882.55,240.21,120.11,37,18,3,7676,1142,1
+3542,Eastside Animal Clinic,1,VBS Partner,FL,34112,Companion Animal,2,1,15656.32,1304.69,434.9,4,3,0,7637,1450,2
+5875,Middendorf Animal Hospital and Laser Center,1,IMA Partner,KY,41042,Companion Animal,2,1,13369.89,1114.16,371.39,5,4,0,7551,2312,2
+3421,Manheim Pike Veterinary Hospital,1,VBS Partner,PA,17601,Companion Animal,5,2,12815.9,1067.99,152.57,4,3,0,7492,4566,2
+4669,Glade Valley Animal Hospital,1,VBS Partner,MD,21701,Companion Animal,4,11,19273.52,1606.13,107.08,96,37,8,7458,2122,2
+4226,380 West Animal Hospital P.C.,1,IMA Partner,TX,75071,Companion Animal,4,1,21988.72,1832.39,366.48,73,24,6,7416,6284,2
+3276,Desert Veterinary Clinic PLC,1,VBS Partner,AZ,85364,Companion Animal,14,4,10525.27,877.11,48.73,31,21,3,7402,4024,1
+1901,Blue Sky Veterinary Clinic,1,IMA Partner,OR,97702,Companion Animal,11,4,12269.1,1022.43,68.16,1,1,0,7397,2846,2
+5903,Middletown Animal Hospital,1,VBS Partner,NJ,7748,Companion Animal,6,2,19496.69,1624.72,203.09,4,3,0,7381,3420,2
+4053,Western Hills Animal Medical & Surgical Center,1,VBS Partner,TX,77356,Companion Animal,6,3,10651.15,887.6,98.62,1,1,0,7229,2991,1
+1981,Longmeadow Animal Hospital,1,IMA Partner,MD,21742,Companion Animal,1,2,9893.57,824.46,274.82,28,10,2,7225,3917,1
+3405,Manhasset Animal Hospital,1,VBS Partner,NY,11030,Companion Animal,1,1,1477.5,123.13,61.56,1,1,0,7040,810,1
+2055,Washington Veterinary Clinic,1,IMA Partner,MO,63090,Companion Animal,2,1,10244.61,853.72,284.57,1,0,0,6979,1563,1
+2537,Lamoille Valley Veterinary Services,1,VBS Partner,VT,5655,Companion Animal,9,7,18119.36,1509.95,94.37,61,35,5,6841,2113,2
+75260,Capeside Animal Hospital,1,VBS Partner,NC,28451,Companion Animal,5,25,19270.87,1605.91,53.53,33,12,3,6835,3563,2
+4742,Lawndale Veterinary Hospital,1,VBS Partner,NC,27455,Companion Animal,6,2,22076.35,1839.7,229.96,18,8,2,6740,3076,2
+2069,Earlysville Animal Hospital,1,IMA Partner,VA,22936,Companion Animal,4,1,18785.74,1565.48,313.1,4,4,0,6704,1829,2
+3923,"East Columbus Veterinary Hospital, Inc",1,VBS Partner,OH,43205,Companion Animal,5,3,11382.43,948.54,118.57,348,52,29,6673,2090,1
+2187,Petlovers Animal Hospital,1,IMA Partner,OH,43068,Companion Animal,1,1,2169.94,180.83,90.41,0,0,0,6584,1839,1
+15998,Norwood Animal Clinic,1,VBS Partner,WI,53225-3003,Companion Animal,4,2,1934.03,161.17,26.86,0,0,0,6402,1565,1
+2181,Northland Mobile Veterinary Clinic,1,VBS Partner,MO,64156,Companion Animal,1,1,13521.9,1126.83,563.41,36,13,3,6368,1463,2
+1953,Aston Vet Hospital LLC,1,IMA Partner,PA,19063,Companion Animal,12,6,9192.55,766.05,42.56,0,0,0,6272,3859,1
+2025,Jacksonville Cabot Vet Clinic,1,IMA Partner,AR,72023,Companion Animal,2,1,3034.52,252.88,84.29,1,0,0,6270,629,1
+75597,Animal Medical Hospital of State College,1,VBS Partner,PA,16803,Companion Animal,4,4,15171.55,1264.3,158.04,44,23,4,6114,3204,2
+2156,Cayuga Veterinary Services,1,IMA Partner,NY,13021,Companion Animal,4,8,7623.33,635.28,52.94,2,2,0,6081,1066,1
+4101,Wexford Veterinary Hospital,1,IMA Partner,PA,15090,Companion Animal,7,1,22366.94,1863.91,232.99,2,1,0,6051,2604,2
+3771,Animal Wellness Center,1,VBS Partner,TN,38563,Companion Animal,2,6,13209.93,1100.83,137.6,40,24,3,5846,2403,2
+1960,Winchester Pet Care Center,1,IMA Partner,KS,66062,Companion Animal,1,6,13638.77,1136.56,162.37,41,28,3,5836,1167,2
+2974,Circle L Animal Hospital,1,VBS Partner,AZ,86323,Companion Animal,6,4,8233.77,686.15,68.61,9,5,1,5833,1198,1
+2121,Massanutten Animal Clinic,1,IMA Partner,VA,22801,Companion Animal,3,2,18890.51,1574.21,314.84,26,12,2,5821,3291,2
+3551,Aggie Animal Clinic,1,VBS Partner,CA,95620,Companion Animal,8,1,16465.18,1372.1,152.46,32,18,3,5819,2118,2
+5719,Broadway Animal Clinic,1,VBS Partner,KS,67216,Companion Animal,3,1,6491.91,540.99,135.25,5,2,0,5791,0,1
+3521,Stone Oak Veterinary Clinic,1,VBS Partner,TX,78258,Companion Animal,7,3,24645.2,2053.77,205.38,202,111,17,5754,2166,3
+3294,Pets On Broadway Animal Hospital,1,VBS Partner,CO,80210,Companion Animal,4,1,13257.86,1104.82,220.96,8,4,1,5735,2609,2
+3060,Evers Veterinary Clinic,1,VBS Partner,CA,95928,Companion Animal,5,5,8402.76,700.23,70.02,44,31,4,5729,2811,1
+2413,Heartwood Animal Hospital,1,VBS Partner,NC,27596,Companion Animal,10,0,26554.94,2212.91,221.29,146,88,12,5728,1057,3
+2003,Advanced Veterinary Care,1,IMA Partner,MO,63401,Companion Animal,2,4,10387.08,865.59,144.27,10,9,1,5722,966,1
+4086,Petcare Veterinary Services,1,VBS Partner,CT,6107,Companion Animal,1,1,19782.12,1648.51,824.26,5,4,0,5701,1663,2
+2138,"Animal Clinic at Upper Sandusky, Inc.",1,IMA Partner,OH,43351,Companion Animal,1,2,4724.83,393.74,131.25,0,0,0,5643,2202,1
+1728,Kelley Animal Hospital,1,VBS Partner,AL,35215,Companion Animal,8,5,6071.61,505.97,38.92,9,4,1,5472,2893,1
+2349,Osceola Veterinary Services,1,IMA Partner,WI,54020,Companion Animal,3,2,18906.76,1575.56,315.11,10,8,1,5463,1572,2
+2233,Animal Health Center,1,IMA Partner,NE,69361,Companion Animal,5,1,6744.49,562.04,93.67,21,15,2,5443,151,1
+5830,Sunflower Animal Hospital,1,VBS Partner,KS,66216,Companion Animal,2,0,25711.84,2142.65,1071.33,19,12,2,5410,1229,3
+3316,Family Pet Hospital,1,VBS Partner,GA,30188,Companion Animal,2,1,7703.14,641.93,213.98,64,13,5,5302,2914,1
+3814,Cumberland Valley Animal Hospital,1,VBS Partner,KY,40744,Companion Animal,3,7,2973.63,247.8,24.78,6,1,1,5244,543,1
+1991,"Oconee Veterinary Hospital, PC",1,IMA Partner,GA,30677,Companion Animal,2,2,8822.99,735.25,183.81,5,1,0,5231,1521,1
+1913,Columbia Animal Hospital,1,IMA Partner,PA,17512,Companion Animal,3,1,8006.12,667.18,166.79,32,13,3,5196,1674,1
+3125,Uxbridge Animal Hospital,1,VBS Partner,MA,1569,Companion Animal,3,1,20052.64,1671.05,417.76,10,7,1,5171,2462,2
+2255,Raytown Gregory Animal Hth Ctr,1,IMA Partner,MO,64133,Companion Animal,4,1,8145.38,678.78,135.76,0,0,0,5155,2110,1
+2043,Pet Wellness Center PC,1,IMA Partner,IL,62959,Companion Animal,1,2,6763.7,563.64,187.88,7,4,1,5154,1484,1
+5709,State Line Animal Hospital,1,VBS Partner,KS,66206,Companion Animal,5,4,22136.12,1844.68,204.96,50,24,4,5115,2019,2
+2112,Southside Hospital for Animals,1,IMA Partner,GA,31419,Companion Animal,7,2,26861.67,2238.47,248.72,50,22,4,5099,107,3
+5801,University Animal Clinic,1,VBS Partner,FL,34201,Companion Animal,5,4,10187.85,848.99,94.33,5,1,0,5046,2123,1
+1899,"Meadowbrook Veterinary Clinic, P.C.",1,IMA Partner,IL,61614,Companion Animal,8,1,6821.47,568.46,63.16,2,1,0,5028,2266,1
+2205,Animal Wellness Center,1,IMA Partner,FL,33414,Companion Animal,3,5,21070.29,1755.86,219.48,120,41,10,5012,2120,2
+2001,Midshore Veterinary Service,1,IMA Partner,MD,21601,Companion Animal,4,12,28489.1,2374.09,148.38,35,24,3,5011,2291,3
+2586,Bay Area Veterinary Hospital,1,VBS Partner,MD,21619,Companion Animal,8,5,25699.04,2141.59,164.74,153,77,13,4992,1257,3
+10349,Rohrig Animal Hospital,1,VBS Partner,NE,68002,Companion Animal,2,6,4108.46,342.37,42.8,9,5,1,4937,395,1
+5704,Layton Animal Hospital,1,VBS Partner,WI,53221,Companion Animal,3,10,9620.56,801.71,61.67,35,17,3,4899,2983,1
+3103,Falls Church Animal Hospital,1,IMA Partner,VA,22046,Companion Animal,14,3,29337.42,2444.79,143.81,393,134,33,4807,4127,3
+4094,Sanford Animal Hospital,1,VBS Partner,NC,27332,Companion Animal,4,2,3424.92,285.41,47.57,12,3,1,4797,347,1
+3778,Dominion Animal Hospital,1,VBS Partner,VA,20170,Companion Animal,10,10,26701.99,2225.17,111.26,56,32,5,4790,2332,3
+3737,Wesley Chapel Veterinary Services,1,VBS Partner,FL,33544,Companion Animal,3,1,184.8,15.4,3.85,0,0,0,4754,1218,1
+3754,Legacy Veterinary Hospital,1,IMA Partner,TX,75034,Companion Animal,8,7,23844.86,1987.07,132.47,18,8,2,4723,3236,2
+1975,Animal Care Center,1,IMA Partner,KS,66701,Companion Animal,1,1,4027.03,335.59,167.79,5,4,0,4665,1084,1
+3436,Vienna Animal Hospital,1,VBS Partner,VA,22180,Companion Animal,5,0,6891.51,574.29,114.86,39,26,3,4592,3788,1
+5800,River's Edge Veterinary Hospital,1,VBS Partner,IL,62960,Companion Animal,3,1,5961.41,496.78,124.2,36,15,3,4543,1689,1
+2362,Brooklyn Veterinary Hospital,1,IMA Partner,CT,6234,Companion Animal,4,2,10036.56,836.38,139.4,11,4,1,4502,1770,1
+2174,Brookfield Animal Hospital,1,IMA Partner,CT,6804,Companion Animal,7,6,8565.39,713.78,54.91,9,3,1,4500,2866,1
+5632,Hickory Flat Animal Hospital,1,VBS Partner,GA,30115,Companion Animal,6,1,24770.53,2064.21,294.89,12,10,1,4496,1224,3
+5703,Redland Animal Hospital,1,VBS Partner,FL,33031,Companion Animal,5,1,8610.22,717.52,119.59,14,8,1,4485,1258,1
+4279,Suburban Animal Clinic of Monroe,1,VBS Partner,MI,48161,Companion Animal,2,0,747.42,62.29,31.14,0,0,0,4447,820,1
+4273,Park Grove Pet Hospital,1,VBS Partner,MN,55016,Companion Animal,7,4,23924.64,1993.72,181.25,32,24,3,4319,2049,2
+1890,"Brandywine Valley Veterinary Hospital, Inc.",1,IMA Partner,PA,19320,Companion Animal,5,0,28240.44,2353.37,470.67,56,29,5,4212,2309,3
+2161,Thone Animal Care Of Blair,1,IMA Partner,NE,68008,Companion Animal,2,1,1426.04,118.84,39.61,4,2,0,4189,281,1
+1964,"Crossroads Animal Hospital, LLC",1,IMA Partner,SC,29678,Companion Animal,1,0,4955.72,412.98,412.98,8,4,1,4090,825,1
+5877,East West Animal Hospital LLC,1,IMA Partner,FL,33548,Companion Animal,1,3,29666.73,2472.23,618.06,100,96,8,4035,1833,3
+5762,Pet Kare Clinic,1,VBS Partner,CO,80488,Companion Animal,6,2,23430.01,1952.5,244.06,68,32,6,4018,2781,2
+2431,Kings Bay Veterinary Hospital,1,VBS Partner,NY,11223,Companion Animal,3,1,9574,797.83,199.46,91,42,8,3989,539,1
+1894,Ridgeview Animal Hospital,1,IMA Partner,NE,68130,Companion Animal,4,8,16269.14,1355.76,112.98,9,5,1,3989,1581,2
+5824,Bell Road Animal Medical Center,1,VBS Partner,AL,36117,Companion Animal,1,8,27931.22,2327.6,258.62,163,48,14,3982,1081,3
+2772,Green Cove Animal Hospital,1,VBS Partner,FL,32043,Companion Animal,2,0,12095.29,1007.94,503.97,63,33,5,3916,1044,2
+2252,Brewster Veterinary Hospital,1,IMA Partner,MA,2631,Companion Animal,5,1,19511.76,1625.98,271,13,8,1,3903,1744,2
+1957,Spoon River Animal Clinic PC,1,IMA Partner,IL,61520,Companion Animal,5,1,8718.79,726.57,121.09,3,3,0,3898,1058,1
+2536,Doc Side Veterinary Medical Center,1,VBS Partner,MD,21231,Companion Animal,14,2,25351.69,2112.64,132.04,127,70,11,3818,2974,3
+4251,Greenlawn Animal Hospital,1,IMA Partner,NY,11740,Companion Animal,1,0,20666.11,1722.18,1722.18,88,17,7,3783,1518,2
+1959,Norton Animal Hospital Inc,1,IMA Partner,MA,2766,Companion Animal,7,2,20975.47,1747.96,194.22,16,8,1,3766,2359,2
+3225,Noah's Ark Animal Hospital,1,VBS Partner,KY,40502,Companion Animal,2,0,15962.69,1330.22,665.11,142,48,12,3765,1969,2
+1841,Okaw Veterinary Clinic,1,IMA Partner,IL,61953,Companion Animal,1,2,25726.48,2143.87,714.62,46,14,4,3750,839,3
+6023,Yardville Animal Hospital,1,IMA Partner,NJ,8620,Companion Animal,3,3,14341.04,1195.09,199.18,76,56,6,3742,440,2
+4420,Pioneer Valley Veterinary Hospital,1,VBS Partner,MA,1301,Companion Animal,3,2,9630.1,802.51,160.5,34,19,3,3700,1437,1
+6014,Walnut Creek Veterinary Clinic,1,VBS Partner,NE,68046,Companion Animal,3,12,12577.8,1048.15,69.88,32,14,3,3677,2457,2
+3469,Pet First Animal Hospital,1,VBS Partner,FL,34203,Companion Animal,5,1,3497.32,291.44,48.57,3,3,0,3650,832,1
+2668,Coolridge Animal Hospital,1,IMA Partner,MD,20748,Companion Animal,8,2,3414.53,284.54,28.45,6,3,1,3581,2673,1
+4465,Parkway Animal Clinic,1,VBS Partner,MI,48103,Companion Animal,2,1,20788.58,1732.38,577.46,85,45,7,3563,546,2
+3505,Cat Hospital of Sarasota,1,VBS Partner,FL,34233,Companion Animal,3,1,2622.6,218.55,54.64,0,0,0,3542,122,1
+2464,Bel-Aire Veterinary Hospital,1,VBS Partner,NC,27409,Companion Animal,3,2,12986.03,1082.17,216.43,49,20,4,3444,1091,2
+2735,Chantilly Animal Hospital,1,IMA Partner,VA,20151,Companion Animal,11,4,10237.54,853.13,56.88,93,35,8,3401,2365,1
+3489,"Thoreau Veterinary Hospital, Inc.",1,IMA Partner,PA,18045,Companion Animal,5,6,3111.49,259.29,23.57,4,1,0,3391,1047,1
+2713,Sykesville Veterinary Clinic,1,VBS Partner,MD,21784,Companion Animal,7,0,20591.65,1715.97,245.14,23,11,2,3348,1895,2
+2337,Kennebunk Veterinary Hospital,1,IMA Partner,ME,4043,Companion Animal,5,1,14667.67,1222.31,203.72,7,2,1,3346,1577,2
+4403,East Coast Veterinary Services,1,VBS Partner,FL,32958,Companion Animal,8,0,12398.23,1033.19,129.15,53,19,4,3324,757,2
+4537,Baxter Veterinary Clinic,1,VBS Partner,SC,29708,Companion Animal,4,0,11513,959.42,239.85,31,17,3,3323,2863,1
+1930,Animal Health Clinic of Funkstown,1,IMA Partner,MD,21734,Companion Animal,6,1,10169.72,847.48,121.07,1,0,0,3311,2413,1
+3656,Pet Care Associates,1,VBS Partner,GA,30542,Companion Animal,2,6,13802.85,1150.24,143.78,28,16,2,3307,1743,2
+2742,Greater South River Animal Hospital,1,VBS Partner,MD,21037,Companion Animal,6,14,17650.63,1470.89,73.54,31,18,3,3297,1951,2
+2016,Hickman Run Animal Hospital,1,IMA Partner,WV,26554,Companion Animal,1,0,7188.45,599.04,599.04,2,2,0,3241,667,1
+2507,Bay Country Veterinary Hospital,1,VBS Partner,MD,21032,Companion Animal,10,4,828.49,69.04,4.93,4,1,0,3233,2724,1
+4401,Live Oak Veterinary Clinic of Moncks Corner,1,VBS Partner,SC,29461,Companion Animal,2,1,25065.18,2088.77,696.26,27,20,2,3229,1241,3
+3819,Animal Hospital of Fate,1,VBS Partner,TX,75087,Companion Animal,2,0,6445.47,537.12,268.56,29,15,2,3187,770,1
+1978,Winterset Veterinary Center,1,IMA Partner,IA,50273,Companion Animal,1,0,9031.87,752.66,752.66,1,1,0,3157,745,1
+2066,Freeport Veterinary Hospital,1,IMA Partner,ME,4032,Companion Animal,9,14,17245.96,1437.16,62.49,37,14,3,3070,1328,2
+3942,Holcomb Bridge Animal Hospital,1,IMA Partner,GA,30076,Companion Animal,5,1,10986.09,915.51,152.58,28,18,2,3024,1513,1
+3252,Animal Hospital of Mount Pocono,1,IMA Partner,PA,18344,Companion Animal,1,0,4220.53,351.71,351.71,6,3,1,3007,991,1
+2745,Parkview Veterinary Hospital,1,VBS Partner,CA,93940,Companion Animal,3,0,4027.69,335.64,111.88,0,0,0,2983,1077,1
+3006,Spinnaker Veterinary Clinic,1,VBS Partner,MA,2726,Companion Animal,5,0,5877.01,489.75,97.95,13,7,1,2981,767,1
+2435,All Pets Medical & Laser Surgical Center,1,VBS Partner,TX,77845,Companion Animal,3,6,5688.47,474.04,52.67,9,5,1,2980,1265,1
+2171,Animal Kingdom Vet Care Center LLC,1,IMA Partner,IA,52317,Companion Animal,4,0,5148.75,429.06,107.27,2,1,0,2914,1544,1
+2119,Arnold Pet Station,1,IMA Partner,MD,21012,Companion Animal,6,4,17420.74,1451.73,145.17,9,4,1,2881,1459,2
+4070,Belle Plaine Animal Hospital,1,VBS Partner,MN,56011,Companion Animal,1,3,12974.75,1081.23,270.31,22,14,2,2863,1465,2
+4032,All Animals Veterinary Hospital,1,VBS Partner,NC,27330,Companion Animal,3,2,7060.94,588.41,117.68,10,3,1,2859,1078,1
+76920,The Animal Medical Center of the Lowcountry,1,IMA Partner,SC,29907,Companion Animal,1,2,726.45,60.54,20.18,0,0,0,2849,1922,1
+2150,Pine Point Animal Hospital PA,1,IMA Partner,ME,4074,Companion Animal,6,2,9570.98,797.58,99.7,4,2,0,2820,2118,1
+2149,Joseph A. Kobuszewski DVM,1,IMA Partner,KS,66088,Companion Animal,1,1,3511.93,292.66,146.33,36,5,3,2806,10,1
+2585,Bellefonte Animal Clinic,1,VBS Partner,KY,41169,Companion Animal,3,1,13951.66,1162.64,290.66,11,6,1,2780,1034,2
+4277,North Port Animal Hospital,1,VBS Partner,FL,34287,Companion Animal,5,0,23083.13,1923.59,384.72,191,73,16,2740,448,2
+5946,About Pets Inc,1,VBS Partner,FL,33572,Companion Animal,1,0,11815.42,984.62,984.62,2,1,0,2699,2135,1
+2524,Sanford Oaks Animal Clinic,1,VBS Partner,TX,76012,Companion Animal,4,6,24341.57,2028.46,202.85,27,11,2,2698,1023,3
+1785,Corpus Christi Animal Clinic,1,VBS Partner,TX,78404,Companion Animal,1,4,15617.35,1301.45,260.29,12,6,1,2573,1385,2
+1987,Green Lane Veterinary Hospital,1,IMA Partner,PA,18054,Companion Animal,2,2,10039.3,836.61,209.15,25,16,2,2533,648,1
+1979,Midway Animal Hospital,1,IMA Partner,GA,30004,Companion Animal,1,0,24083.89,2006.99,2006.99,39,19,3,2527,1704,3
+2717,Centreville Square Animal Hospital,1,IMA Partner,VA,20121,Companion Animal,11,4,11550.49,962.54,64.17,97,57,8,2518,1926,1
+5782,Dynamite Animal Hospital,1,VBS Partner,AZ,85262,Companion Animal,6,2,13283.69,1106.97,138.37,37,24,3,2453,1439,2
+17380,Companion Animal Clinic,1,IMA Partner,FL,32666,Companion Animal,2,2,2617.43,218.12,54.53,3,3,0,2441,278,1
+2544,"Sierra Veterinary Hospital, Inc.",1,VBS Partner,CA,93602,Companion Animal,3,2,4414.77,367.9,73.58,3,3,0,2373,418,1
+2482,Firehouse Veterinary Clinic,1,VBS Partner,MA,2360,Companion Animal,2,4,1880.4,156.7,26.12,14,9,1,2346,1129,1
+2677,Bells Ferry Veterinary Hospital,1,VBS Partner,GA,30102,Companion Animal,4,6,15546.85,1295.57,129.56,10,6,1,2346,1981,2
+4232,Animal Medical Associates,1,VBS Partner,ME,4072,Companion Animal,3,5,16583.67,1381.97,172.75,46,29,4,2311,1328,2
+5075,Ormewood Animal Hospital,1,VBS Partner,GA,30316,Companion Animal,2,5,3698.88,308.24,44.03,50,17,4,2263,2140,1
+73091,Animal Doctors,1,VBS Partner,KY,40299,Companion Animal,1,1,27131.61,2260.97,1130.48,17,12,1,2248,262,3
+2133,Guthrie Pet Hospital,1,IMA Partner,OK,73044,Companion Animal,1,3,5660.59,471.72,117.93,3,2,0,2246,1230,1
+4427,Lookout Valley Pet Hospital LLC,1,VBS Partner,TN,37419,Companion Animal,4,3,18427.18,1535.6,219.37,5,4,0,2229,1010,2
+2377,Parkville Animal Hospital,1,VBS Partner,MD,21234,Companion Animal,1,4,7194.17,599.51,119.9,19,13,2,2211,1539,1
+2313,Town and Country North Veterinary Clinic,1,IMA Partner,GA,30075,Companion Animal,6,1,1127.1,93.93,13.42,0,0,0,2207,801,1
+3427,Elburn Animal Hospital,1,VBS Partner,IL,60119,Companion Animal,5,3,7863.43,655.29,81.91,11,8,1,2191,552,1
+2118,Mountain Park Animal Hospital,1,IMA Partner,GA,30047,Companion Animal,3,12,18261.33,1521.78,101.45,12,9,1,2164,1395,2
+2862,Veterinary Associates of Hattiesburg,1,VBS Partner,MS,39402,Companion Animal,3,0,12243.83,1020.32,340.11,6,6,1,2117,1280,2
+3330,Sleepy Hollow Animal Hospital,1,VBS Partner,NY,10591,Companion Animal,2,0,17020.85,1418.4,709.2,6,3,1,2105,1595,2
+4233,Springlake Animal Hospital,1,VBS Partner,FL,32656,Companion Animal,2,1,5406.42,450.54,150.18,6,2,1,2097,428,1
+2367,Glen Eagles Pet Hospital,1,IMA Partner,OK,73013,Companion Animal,1,1,14441.57,1203.46,601.73,7,5,1,2084,1415,2
+5817,Animal Medical Center,1,VBS Partner,TX,76207,Companion Animal,1,1,20612.9,1717.74,858.87,144,72,12,2081,804,2
+5821,Kindness Animal Hospital,1,VBS Partner,OK,74133,Companion Animal,3,1,2892.98,241.08,60.27,2,2,0,2066,1232,1
+2033,All Breed Pet Care llc,1,IMA Partner,IN,47630,Companion Animal,1,0,4932.46,411.04,411.04,3,0,0,2055,539,1
+16366,Town and Country Veterinary Clinic,1,VBS Partner,NE,68305,Companion Animal,4,3,4635.61,386.3,55.19,49,20,4,2041,165,1
+4292,The Vet,1,VBS Partner,TX,75081,Companion Animal,3,1,17253.71,1437.81,359.45,127,46,11,2017,1428,2
+4445,Schwenksville Veterinary Hospital,1,VBS Partner,PA,19473,Companion Animal,2,7,21887.23,1823.94,202.66,106,55,9,2003,1702,2
+5434,Apopka Veterinary Clinic,1,VBS Partner,FL,32703,Companion Animal,1,0,5742.26,478.52,478.52,23,16,2,1985,869,1
+4685,Gibson Veterinary Clinic,1,VBS Partner,IL,60936,Companion Animal,8,2,8531.22,710.94,71.09,12,9,1,1976,1219,1
+1883,"Crescent Veterinary Hospital, Inc.",1,IMA Partner,GA,30265,Companion Animal,1,1,12539.38,1044.95,522.47,36,36,3,1972,913,2
+72836,Jaffe Animal Clinic,1,VBS Partner,FL,33432,Companion Animal,1,1,2309.35,192.45,96.22,4,4,0,1971,953,1
+2582,New Canaan Veterinary Hospital,1,VBS Partner,CT,6840,Companion Animal,4,6,22820.22,1901.69,190.17,135,64,11,1928,1068,2
+5819,Innovative Veterinary Medicine,1,VBS Partner,GA,31406,Companion Animal,4,10,14213.62,1184.47,84.6,45,25,4,1800,831,2
+3157,Bay Creek Animal Clinic,1,VBS Partner,TX,77573,Companion Animal,3,2,14041.45,1170.12,234.02,82,66,7,1798,1288,2
+4352,Dr Silvia's Mobile Veterinary Clinic,1,VBS Partner,CA,92688,Companion Animal,3,0,24845.46,2070.46,690.15,136,83,11,1786,924,3
+5933,Redondo Veterinary Medical Center,1,VBS Partner,CA,90277,Companion Animal,2,3,12109.92,1009.16,201.83,16,9,1,1677,1159,2
+3100,Middle Island Mobile Veterinary Clinic,1,VBS Partner,NY,11953,Companion Animal,1,0,24634.98,2052.92,2052.92,17,12,1,1670,0,3
+2526,Merrimac Valley Animal Hospital,1,VBS Partner,MA,1913,Companion Animal,13,3,14503.78,1208.65,75.54,78,37,7,1643,1220,2
+4221,Animal Blessings Pet Hospital,1,IMA Partner,MT,59804,Companion Animal,2,2,3029.85,252.49,63.12,50,14,4,1629,325,1
+2044,Advanced Veterinary Medical Center,1,IMA Partner,MI,48336,Companion Animal,2,11,23634.35,1969.53,151.5,21,17,2,1612,1317,2
+4668,Pond Point Animal Hospital,1,VBS Partner,CT,6460,Companion Animal,5,5,23611.74,1967.65,196.76,51,29,4,1603,1211,2
+2098,Greenbrier Animal Care Center,1,IMA Partner,VA,23320,Companion Animal,3,3,6089.88,507.49,84.58,6,2,1,1595,1152,1
+4551,The Whole Pet,1,VBS Partner,IL,60103,Companion Animal,11,8,9038.57,753.21,39.64,12,6,1,1539,1247,1
+4256,Park Place Animal Hospital,1,VBS Partner,GA,30642,Companion Animal,3,0,6411.55,534.3,178.1,72,33,6,1515,753,1
+1944,Conway Animal Clinic,1,IMA Partner,AR,72032,Companion Animal,1,1,1996.17,166.35,83.17,0,0,0,1498,1151,1
+5713,Animal Care Hospital,1,VBS Partner,KS,67530,Companion Animal,2,3,5062.93,421.91,84.38,13,6,1,1492,109,1
+2695,Brookhaven Cat Hospital,1,IMA Partner,NY,11733,Companion Animal,2,3,5434.29,452.86,90.57,25,13,2,1467,784,1
+2926,Monarch Veterinary Hospital,1,VBS Partner,CA,92677,Companion Animal,3,3,8062.17,671.85,111.97,6,2,1,1450,1083,1
+2132,Animal Clinic Of Platte County,1,IMA Partner,MO,64152-3543,Companion Animal,1,2,7536.22,628.02,209.34,114,43,10,1447,758,1
+3658,Stone Hill Veterinary Clinic PC,1,VBS Partner,MI,49307,Companion Animal,5,0,10549.92,879.16,175.83,7,6,1,1440,383,1
+4177,Dogwood Veterinary Hospital & Pet Resort,1,VBS Partner,NC,27517,Companion Animal,2,2,14977.65,1248.14,312.03,58,32,5,1432,1177,2
+2945,The Animal Doctor,1,VBS Partner,CA,93004,Companion Animal,7,1,12021.91,1001.83,125.23,69,36,6,1398,870,2
+4746,River Country Animal Wellness,1,VBS Partner,WI,53949,Companion Animal,1,0,9410.92,784.24,784.24,66,47,6,1386,368,1
+5973,Veterinary Associates Stonefield,1,VBS Partner,KY,40223,Companion Animal,1,2,21944.15,1828.68,609.56,18,11,2,1370,1000,2
+3580,Best Care Pet Hospital,1,VBS Partner,NE,68137,Companion Animal,2,4,22124.05,1843.67,307.28,163,89,14,1352,992,2
+4343,VET Care Hospital and Pet Resort,1,IMA Partner,TX,76133,Companion Animal,1,12,17881.95,1490.16,114.63,24,10,2,1327,788,2
+4371,Prospect Ridge Veterinary Hospital,1,VBS Partner,NJ,7052,Companion Animal,1,1,16039.4,1336.62,668.31,52,23,4,1318,639,2
+2163,"Tugaloo Animal Hospital, PC",1,IMA Partner,GA,30553,Companion Animal,1,1,2028.99,169.08,84.54,27,3,2,1309,423,1
+5941,Bedford Greenwich Animal Hospital,1,VBS Partner,NY,10506,Companion Animal,2,1,10559.6,879.97,293.32,20,14,2,1135,1083,1
+2012,Anchorage Animal Hospital Inc.,1,IMA Partner,KY,40245,Companion Animal,4,1,18161.37,1513.45,302.69,19,16,2,1124,908,2
+4298,University Drive Veterinary Hospital,1,VBS Partner,PA,16801,Companion Animal,2,5,6719.12,559.93,79.99,26,25,2,1031,498,1
+3398,Sunset Whitney Veterinary Hospital,1,VBS Partner,CA,95677,Companion Animal,1,2,1103.34,91.95,30.65,8,5,1,1026,717,1
+4304,"All Pets Veterinary Home Care, LLC",1,VBS Partner,NY,13760,Companion Animal,1,1,13801.72,1150.14,575.07,91,63,8,1024,252,2
+1837,Pet Vac Animal Hospital,1,IMA Partner,SC,29301,Companion Animal,1,4,25371.19,2114.27,422.85,33,30,3,1020,495,3
+5975,"Cat Care Professionals, LLC",1,VBS Partner,OR,97035,Companion Animal,3,4,15576.33,1298.03,185.43,240,74,20,1008,832,2
+2046,Cross Creek Animal Medical Centre Inc.,1,IMA Partner,FL,33647,Companion Animal,4,0,15280.5,1273.38,318.34,40,26,3,972,883,2
+1889,Shy Valley Animal Hospital,1,IMA Partner,TN,37641,Companion Animal,1,1,10241.62,853.47,426.73,0,0,0,934,311,1
+6043,Sully Animal Hospital,1,IMA Partner,VA,20120,Companion Animal,6,2,8359.49,696.62,87.08,123,61,10,929,638,1
+4176,Advanced Animal Care Center,1,VBS Partner,NY,11746,Companion Animal,2,0,15950.84,1329.24,664.62,15,10,1,921,758,2
+3218,Cass County Animal Hospital,1,VBS Partner,MO,64012,Companion Animal,1,0,23785.86,1982.16,1982.16,150,109,13,804,380,2
+4608,Caravan Vet,1,VBS Partner,MN,55404,Companion Animal,1,1,18528.56,1544.05,772.02,171,95,14,731,606,2
+2146,Home Pet Vet LLC,1,VBS Partner,OR,97537,Companion Animal,3,1,2200.4,183.37,45.84,10,4,1,722,294,1
+1966,Bluffs Animal Hospital,1,VBS Partner,FL,33408,Companion Animal,2,4,10998.16,916.51,152.75,36,19,3,712,520,1
+3718,Kings Park Animal Hospital,1,VBS Partner,NY,11787,Companion Animal,1,0,3867.82,322.32,322.32,35,12,3,686,207,1
+2014,Indian Street Animal Clinic,1,VBS Partner,FL,34997,Companion Animal,1,1,8940.82,745.07,372.53,40,24,3,654,569,1
+2975,"The Cat Hospital of Fairfax, Inc",1,VBS Partner,VA,22030,Companion Animal,5,4,19763.09,1646.92,182.99,44,26,4,623,598,2
+4414,Mobile Vet Squad,1,VBS Partner,NY,10804-2120,Companion Animal,1,1,16075.08,1339.59,669.8,42,34,4,562,398,2
+4397,Santa Marietta Animal Hospital,1,VBS Partner,GA,30060,Companion Animal,3,0,12876.5,1073.04,357.68,118,17,10,97,8,2
+4417,The Animal Doctor,1,VBS Partner,TX,76060,Companion Animal,1,1,27814.22,2317.85,1158.93,546,122,46,0,0,3
+3884,Medicine River Animal Hospital,1,IMA Partner,FL,33708,Companion Animal,1,0,28375.76,2364.65,2364.65,433,160,36,0,0,3
+4219,Mobile Veterinary Services,1,VBS Partner,FL,33836,Companion Animal,1,0,28277.9,2356.49,2356.49,398,173,33,0,0,3
+5689,Nova Mobile Vet,1,VBS Partner,VA,22079,Companion Animal,1,1,20268.87,1689.07,844.54,348,139,29,0,0,2
+3977,Vet House Calls for Pets Inc,1,VBS Partner,FL,33322,Companion Animal,1,0,19805.86,1650.49,1650.49,289,95,24,0,0,2
+2399,Cache La Poudre Vet Clinic,1,IMA Partner,CO,80524,Companion Animal,2,2,26892.79,2241.07,560.27,271,84,23,0,0,3
+2804,South Hall Veterinary Hospital,1,VBS Partner,GA,30566,Companion Animal,2,6,14940.74,1245.06,155.63,253,51,21,0,0,2
+5737,All Around Veterinary Service,1,VBS Partner,KS,66846,Companion Animal,1,0,23242.45,1936.87,1936.87,245,93,20,0,0,2
+4238,Capital Home Veterinary Care,1,VBS Partner,VA,23236,Companion Animal,2,0,29180.34,2431.7,1215.85,238,114,20,0,0,3
+6846,Animal Hospital of Hasbrouck Heights,1,VBS Partner,NJ,7604,Companion Animal,1,0,6173.31,514.44,514.44,234,62,20,0,0,1
+3496,"Monroe Animal Hospital, PA",1,VBS Partner,NC,28110,Companion Animal,3,1,20783.69,1731.97,432.99,224,206,19,0,0,2
+5763,South Congress Veterinary Clinic,1,VBS Partner,TX,78704,Companion Animal,1,0,17487.42,1457.29,1457.29,221,66,18,0,0,2
+4237,Hannah M Good DVM Community Mobile Vet,1,IMA Partner,CA,95060,Companion Animal,1,0,24094.43,2007.87,2007.87,217,49,18,0,0,3
+4606,Mobile Veterinary Service of the Palm Beaches,1,VBS Partner,FL,33405,Companion Animal,1,0,23101.08,1925.09,1925.09,212,91,18,0,0,2
+2881,Atlantic Animal Care,1,VBS Partner,NY,11201,Companion Animal,2,0,21149.14,1762.43,881.21,208,95,17,0,0,2
+3093,South Shore Animal Services,1,VBS Partner,MA,2364,Companion Animal,2,5,17570.86,1464.24,209.18,202,80,17,0,0,2
+3711,Healthy Pets Mobile Vet,1,VBS Partner,NC,27529,Companion Animal,1,0,13937.88,1161.49,1161.49,188,71,16,0,0,2
+4342,California Pet Acupuncture and Wellness,1,VBS Partner,CA,90046,Companion Animal,1,0,19885.69,1657.14,1657.14,188,120,16,0,0,2
+3743,Dixie Trail Animal Clinic,1,VBS Partner,NC,27607,Companion Animal,6,9,18002.05,1500.17,100.01,150,84,13,0,0,2
+2840,MobilePetVet,1,IMA Partner,SC,29928,Companion Animal,1,0,19118.15,1593.18,1593.18,142,83,12,0,0,2
+4443,Healing Hand Mobile Veterinary Service,1,VBS Partner,GA,30187,Companion Animal,1,0,6190.28,515.86,515.86,130,58,11,0,0,1
+4064,My Vet Animal Hospital,1,VBS Partner,IL,60622,Companion Animal,7,2,26484.2,2207.02,245.22,126,32,11,0,0,3
+5660,C.A.R.E.,1,VBS Partner,OR,97378,Companion Animal,1,1,2512.43,209.37,104.68,120,37,10,0,0,1
+4081,Country Companions Veterinary Service,1,VBS Partner,CO,80536,Companion Animal,1,0,6666.14,555.51,555.51,114,61,10,0,0,1
+5622,Hazlett Veterinary Services,1,VBS Partner,GA,31406,Companion Animal,1,0,10971.83,914.32,914.32,114,51,10,0,0,1
+5836,Island Paws of Key West,1,VBS Partner,FL,33040,Companion Animal,1,0,8146.78,678.9,678.9,113,49,9,0,0,1
+2116,Bethel Animal Hospital,1,IMA Partner,OH,43220,Companion Animal,7,0,15313.59,1276.13,182.3,106,68,9,0,0,2
+4288,San Francisco Veterinary Housecalls,1,VBS Partner,CA,94109,Companion Animal,1,0,17422.85,1451.9,1451.9,106,62,9,0,0,2
+1905,Breckenridge Animal Hospital,1,IMA Partner,KY,40220,Companion Animal,4,1,24935.32,2077.94,415.59,39,27,3,0,0,3
+5547,All Creatures Veterinary Clinic,1,VBS Partner,WV,24740,Companion Animal,3,4,17813.17,1484.43,212.06,31,14,3,0,0,2
+2516,Treaschwig Veterinary Clinic,1,VBS Partner,TX,77373,Companion Animal,1,3,2847.05,237.25,59.31,15,6,1,0,0,1
+5617,Animal Medical Hospital,1,VBS Partner,AL,35077,Companion Animal,2,1,2584.1,215.34,71.78,6,5,1,0,0,1
+3397,Animal Health Clinic,1,VBS Partner,MI,48430,Companion Animal,2,4,4402.93,366.91,61.15,4,2,0,0,0,1
+1985,All Friends Animal Hospital,1,IMA Partner,CT,6360,Companion Animal,7,2,16335.71,1361.31,151.26,3,2,0,0,0,2
+1891,Island Animal Hospital,1,IMA Partner,FL,33480,Companion Animal,4,1,6217.49,518.12,103.62,2,2,0,0,0,1
+4167,9 Tel Animal Hospital,1,VBS Partner,MI,48033-3904,Companion Animal,1,0,6902.3,575.19,575.19,105,38,9,0,0,1
+3822,The Visiting Vet,1,IMA Partner,FL,33414,Companion Animal,2,0,7217.47,601.46,300.73,104,42,9,0,0,1
+5822,Murphy Road Animal Hospital,1,VBS Partner,TX,75048,Companion Animal,4,2,15508.61,1292.38,215.4,104,60,9,0,0,2
+4170,East West Veterinary Service,1,VBS Partner,CO,80421,Companion Animal,1,0,6193.4,516.12,516.12,103,26,9,0,0,1
+2388,Homefront Veterinary House Calls,1,VBS Partner,NY,11375,Companion Animal,1,0,5335.26,444.61,444.61,102,60,9,0,0,1
+3168,Mostly Cats Veterinary Clinic,1,VBS Partner,IL,61111,Companion Animal,2,6,15621.69,1301.81,162.73,99,38,8,0,0,2
+2570,Blue Ash-Montgomery Pet Hospital,1,VBS Partner,OH,45242,Companion Animal,1,0,16642.05,1386.84,1386.84,97,63,8,0,0,2
+3010,Vet-On-Wheels,1,IMA Partner,NJ,7043,Companion Animal,1,0,8633.24,719.44,719.44,92,42,8,0,0,1
+3867,Animal Medical Center,1,VBS Partner,OH,45066,Companion Animal,3,2,7375.59,614.63,122.93,92,55,8,0,0,1
+4171,CENTRAL OHIO PET CARE,1,VBS Partner,OH,43011,Companion Animal,1,0,5363.05,446.92,446.92,92,36,8,0,0,1
+3665,Assisi Drive Animal Hospital,1,IMA Partner,MN,55901,Companion Animal,3,4,21873.9,1822.83,260.4,86,77,7,0,0,2
+4447,Your Pets Wellness,1,VBS Partner,IL,60647,Companion Animal,3,3,12338.78,1028.23,171.37,86,49,7,0,0,2
+5672,Burnham Park Animal Hospital,1,VBS Partner,IL,60605,Companion Animal,7,1,11605.15,967.1,120.89,85,48,7,0,0,1
+4502,Adams Vet2Pet,1,VBS Partner,VA,23434,Companion Animal,2,0,18484.22,1540.35,770.18,83,50,7,0,0,2
+3321,All Creatures Mobile Veterinary Service,1,VBS Partner,TN,37869,Companion Animal,1,0,5129.09,427.42,427.42,81,14,7,0,0,1
+6026,"Jaclyn Wolinski, DVM, PA",1,VBS Partner,MD,21830,Companion Animal,1,1,10173.31,847.78,423.89,81,44,7,0,0,1
+2319,Olde Naples Animal Wellness Center,1,IMA Partner,FL,34102,Companion Animal,1,4,12465.39,1038.78,207.76,80,31,7,0,0,2
+2466,Providence Veterinary Hospital,1,VBS Partner,PA,19013,Companion Animal,4,0,6757.88,563.16,140.79,79,26,7,0,0,1
+2602,Walnut Plaza Veterinary Hospital,1,VBS Partner,TX,75006,Companion Animal,1,0,13264.38,1105.37,1105.37,76,67,6,0,0,2
+2578,Yellow Springs Veterinary Clinic,1,VBS Partner,MD,21702,Companion Animal,4,1,15897.99,1324.83,264.97,73,43,6,0,0,2
+3901,The Animal Hospital of Carrboro,1,VBS Partner,NC,27510,Companion Animal,5,11,16197.29,1349.77,84.36,73,33,6,0,0,2
+2785,"Gay M. Zambrano, DVM Inc.",1,VBS Partner,CA,90680,Companion Animal,1,0,17688.11,1474.01,1474.01,72,43,6,0,0,2
+3794,"Companion Animal House Calls, Ltd",1,VBS Partner,VA,23233,Companion Animal,1,0,7829.32,652.44,652.44,72,44,6,0,0,1
+16699,Landis Veterinary Services,1,VBS Partner,MD,21769,Companion Animal,1,0,6366.05,530.5,530.5,72,24,6,0,0,1
+4474,Green Paws Vet Care,1,VBS Partner,IL,60525,Companion Animal,3,9,7493.89,624.49,52.04,71,35,6,0,0,1
+6003,Metro-East Home Vet Care,1,VBS Partner,IL,62269,Companion Animal,1,0,5247.01,437.25,437.25,71,36,6,0,0,1
+2405,Three Notch,1,IMA Partner,MD,20636,Companion Animal,13,2,13649.29,1137.44,75.83,69,33,6,0,0,2
+12134,Gruber Veterinary Services,1,VBS Partner,IN,46536,Companion Animal,1,0,16794.77,1399.56,1399.56,68,39,6,0,0,2
+2737,"Veterinary Healing Arts, Inc.",1,VBS Partner,RI,2818,Companion Animal,1,2,29964.57,2497.05,832.35,67,46,6,0,0,3
+3885,Four Paws Animal Hospital,1,VBS Partner,TX,75089,Companion Animal,2,0,7445.45,620.45,310.23,67,20,6,0,0,1
+2164,All Creatures Great and Small Animal Hospital,1,IMA Partner,NJ,7004,Companion Animal,5,0,8626.7,718.89,143.78,66,14,6,0,0,1
+2740,Animal Healing Solutions,1,VBS Partner,FL,32701,Companion Animal,1,0,5033.05,419.42,419.42,65,35,5,0,0,1
+1882,Ridgeview Animal Clinic,1,IMA Partner,IN,47150,Companion Animal,3,14,16012.54,1334.38,78.49,64,34,5,0,0,2
+2250,"PenBay Veterinary Associates, Inc",1,VBS Partner,ME,4856,Companion Animal,3,2,5111.89,425.99,85.2,64,25,5,0,0,1
+2829,Loving Touch Animal Center,1,VBS Partner,GA,30087,Companion Animal,6,1,17351.42,1445.95,206.56,64,30,5,0,0,2
+3430,Brandermill Animal Hospital,1,VBS Partner,VA,23112,Companion Animal,7,2,22565.61,1880.47,208.94,64,52,5,0,0,2
+5867,Fairway Knolls Veterinary Hospital,1,VBS Partner,IL,61701,Companion Animal,1,0,3913.34,326.11,326.11,64,20,5,0,0,1
+2434,Liverpool Village Animal Hospital,1,VBS Partner,NY,13088,Companion Animal,9,1,13099.96,1091.66,109.17,62,36,5,0,0,2
+2560,Huron Animal Hospital,1,IMA Partner,CO,80260,Companion Animal,5,0,9073.77,756.15,151.23,62,53,5,0,0,1
+2588,Lockwillow Avenue Animal Clinic,1,IMA Partner,PA,17112,Companion Animal,1,0,15330.75,1277.56,1277.56,61,27,5,0,0,2
+3863,House Calls For Pets,1,VBS Partner,TX,78248,Companion Animal,1,0,10504.09,875.34,875.34,61,35,5,0,0,1
+4402,Pawsitive Veterinary Healthcare,1,VBS Partner,OH,45373,Companion Animal,1,0,3873.87,322.82,322.82,59,33,5,0,0,1
+2491,Sycamore Veterinary Hospital,1,VBS Partner,VA,23113,Companion Animal,7,2,21657.85,1804.82,200.54,56,34,5,0,0,2
+3471,Flowers Mill Veterinary Hospital,1,VBS Partner,PA,19047,Companion Animal,3,2,29348.85,2445.74,489.15,56,30,5,0,0,3
+5578,Extra Mile Vet,1,VBS Partner,OR,97007,Companion Animal,1,0,7713.53,642.79,642.79,56,30,5,0,0,1
+2266,Beaver Lake Animal Hospital,1,IMA Partner,WA,98029,Companion Animal,1,1,9608.75,800.73,400.36,55,28,5,0,0,1
+2733,Southside Animal Hospital,1,VBS Partner,TX,76903,Companion Animal,5,5,6288.8,524.07,52.41,53,42,4,0,0,1
+5964,Pima North Animal Hospital,1,VBS Partner,AZ,85255-3617,Companion Animal,4,2,7419.34,618.28,103.05,53,27,4,0,0,1
+2890,Carol Stream Animal Hospital,1,VBS Partner,IL,60188,Companion Animal,6,0,17360.78,1446.73,241.12,51,36,4,0,0,2
+6021,Manchaca Village Veterinary Care,1,VBS Partner,TX,78748,Companion Animal,2,7,13273.65,1106.14,122.9,51,28,4,0,0,2
+5645,North Buckeye Animal Hospital,1,VBS Partner,AZ,85326,Companion Animal,7,13,14767.46,1230.62,61.53,50,34,4,0,0,2
+18356,Moon Mobile Vet,1,VBS Partner,GA,30052,Companion Animal,1,0,1068.11,89.01,89.01,50,18,4,0,0,1
+3563,Whitehouse Animal Hospital,1,VBS Partner,OH,43571,Companion Animal,1,3,11716.63,976.39,244.1,49,48,4,0,0,1
+10374,Paws To Tails,1,VBS Partner,NJ,7750,Companion Animal,1,0,3413.08,284.42,284.42,49,17,4,0,0,1
+4041,Dedham Veterinary Associates,1,VBS Partner,MA,2026,Companion Animal,9,0,24175.26,2014.61,223.85,46,31,4,0,0,3
+4294,Meadowbrook & Breckenridge Veterinary,1,IMA Partner,MI,48375,Companion Animal,4,2,6134.54,511.21,85.2,44,15,4,0,0,1
+2260,Animal Hospital of Peak Plaza,1,IMA Partner,NC,27523,Companion Animal,3,1,11916.63,993.05,248.26,43,20,4,0,0,1
+2754,Pocoshock Animal Hospital,1,VBS Partner,VA,23224,Companion Animal,6,5,21204.05,1767,160.64,43,26,4,0,0,2
+4425,Atlantic Veterinary Hospital,1,VBS Partner,WA,98144,Companion Animal,4,1,6850.35,570.86,114.17,43,24,4,0,0,1
+5603,Veterinary Center of Sarasota,1,VBS Partner,FL,34236,Companion Animal,1,3,19329.77,1610.81,402.7,42,18,4,0,0,2
+3095,Plainfield Veterinary Hospital and Clinic,1,VBS Partner,CT,6374,Companion Animal,6,3,4192.18,349.35,38.82,41,20,3,0,0,1
+5873,Black Fox Veterinary Hospital,1,VBS Partner,TN,37130,Companion Animal,3,1,2634.13,219.51,54.88,40,25,3,0,0,1
+1994,Heritage & Arrow Springs Veterinary Hospitals,1,IMA Partner,OK,74145,Companion Animal,11,5,25816.03,2151.34,134.46,39,25,3,0,0,3
+3147,Newport Mesa Animal Hospital,1,VBS Partner,CA,92627,Companion Animal,4,0,3204.15,267.01,66.75,39,6,3,0,0,1
+4005,Humane Animal Clinic,1,VBS Partner,FL,34104,Companion Animal,5,10,3174.19,264.52,17.63,39,20,3,0,0,1
+4328,Lifetime Pet Center- New Richmond,1,VBS Partner,OH,45157,Companion Animal,3,2,12473.67,1039.47,207.89,39,20,3,0,0,2
+4497,Janesville Veterinary Clinic East,1,VBS Partner,WI,53545,Companion Animal,7,4,9678.44,806.54,73.32,39,28,3,0,0,1
+2192,Stevens Veterinary Clinic,1,VBS Partner,IL,61434,Companion Animal,2,1,5698.86,474.91,158.3,38,27,3,0,0,1
+2343,"Chicagoland Veterinary Behavior Consultants, PC",1,VBS Partner,IL,60188,Companion Animal,2,0,8868.6,739.05,369.53,38,31,3,0,0,1
+4293,Palisades Veterinary Clinic,1,VBS Partner,DC,20016,Companion Animal,11,0,17747.4,1478.95,134.45,38,12,3,0,0,2
+1840,Bridgeview Animal Hospital,1,IMA Partner,IN,46037,Companion Animal,8,5,24357.55,2029.8,156.14,37,26,3,0,0,3
+2614,Emberton House Call Veterinary Clinic,1,IMA Partner,TN,37115,Companion Animal,1,1,4382.28,365.19,182.6,37,16,3,0,0,1
+2988,Home Veterinary Care of Northern Virginia,1,IMA Partner,VA,22101,Companion Animal,9,4,12144.98,1012.08,77.85,37,13,3,0,0,2
+4448,York Veterinary Housecalls,1,VBS Partner,PA,17402,Companion Animal,1,0,5287.58,440.63,440.63,37,17,3,0,0,1
+3032,Mohnacky Animal Hospital of Carlsbad,1,VBS Partner,CA,92008,Companion Animal,16,11,5998.86,499.91,18.52,36,18,3,0,0,1
+3558,S.I. Mobile Vet,1,IMA Partner,NY,10309,Companion Animal,1,0,5699.53,474.96,474.96,36,15,3,0,0,1
+1972,New Glarus Veterinary Clinic LLC,1,IMA Partner,WI,53574,Companion Animal,1,1,8835.95,736.33,368.16,35,13,3,0,0,1
+3533,Seaside Veterinary Care,1,VBS Partner,CA,92007,Companion Animal,1,0,18852.4,1571.03,1571.03,35,30,3,0,0,2
+4187,"Animal Health Center, S.C.",1,VBS Partner,WI,53094,Companion Animal,4,3,8220.41,685.03,97.86,35,19,3,0,0,1
+2912,Great Falls Animal Hospital,1,VBS Partner,VA,22066,Companion Animal,9,3,24929.19,2077.43,173.12,34,17,3,0,0,3
+3652,Home Visit Veterinarian,1,IMA Partner,NY,11782,Companion Animal,1,1,7978.95,664.91,332.46,34,8,3,0,0,1
+5771,Southpointe Veterinary Hospital,1,VBS Partner,MI,48101,Companion Animal,5,1,5984.04,498.67,83.11,34,22,3,0,0,1
+4519,All Pets Veterinary Hospital,1,VBS Partner,NH,3062,Companion Animal,13,4,4060.11,338.34,19.9,33,13,3,0,0,1
+1880,Valley Veterinary Clinic,1,IMA Partner,PA,18912,Companion Animal,1,1,24362.88,2030.24,1015.12,31,15,3,0,0,3
+1949,Hybla Valley Veterinary Hospital,1,IMA Partner,VA,22306,Companion Animal,9,3,12298.99,1024.92,85.41,31,12,3,0,0,2
+2496,Coweta Vet Mobile Service,1,VBS Partner,OK,74429,Companion Animal,2,0,2578.13,214.84,107.42,31,11,3,0,0,1
+3144,General Booth Veterinary Hospital,1,VBS Partner,VA,23456,Companion Animal,13,0,10143.98,845.33,65.03,31,22,3,0,0,1
+4235,Flowertown Animal Hospital,1,VBS Partner,SC,29485,Companion Animal,1,0,2147.58,178.97,178.97,31,12,3,0,0,1
+4322,North Rockland Animal Hospital,1,VBS Partner,NY,10980,Companion Animal,12,11,20394.53,1699.54,73.89,31,28,3,0,0,2
+5930,"Nora Kleps, DVM",1,VBS Partner,NY,11937,Companion Animal,1,0,3773.9,314.49,314.49,31,4,3,0,0,1
+1897,North Country Animal Health Center PC,1,IMA Partner,NY,13601,Companion Animal,7,6,24336.32,2028.03,156,30,18,3,0,0,3
+2935,Valley Veterinary Hospital,1,VBS Partner,WA,98926,Companion Animal,5,1,2787.96,232.33,38.72,30,19,3,0,0,1
+3393,Acadia Veterinary Clinic,1,VBS Partner,CA,95014,Companion Animal,3,7,6302.4,525.2,52.52,30,11,3,0,0,1
+5916,Vitality Veterinary Care,1,VBS Partner,WA,98103,Companion Animal,1,0,2345.27,195.44,195.44,30,17,3,0,0,1
+3350,Radnor Veterinary Hospital,1,VBS Partner,PA,19087,Companion Animal,9,1,11735.32,977.94,97.79,29,23,2,0,0,1
+3731,"Paws 'N Claws Veterinary Clinic, LLC",1,VBS Partner,NJ,8016,Companion Animal,2,0,7100.84,591.74,295.87,29,8,2,0,0,1
+4265,Loyal Companion Animal Care,1,VBS Partner,WA,98053,Companion Animal,2,1,8945.13,745.43,248.48,29,13,2,0,0,1
+2054,Edwardsville Pet Hospital,1,IMA Partner,IL,62025,Companion Animal,6,3,10084.72,840.39,93.38,28,10,2,0,0,1
+2765,Choptank Animal Hospital,1,VBS Partner,MD,21613,Companion Animal,4,0,4350.17,362.51,90.63,28,6,2,0,0,1
+3117,Symphony Veterinary Center,1,VBS Partner,NY,10025,Companion Animal,9,0,8396,699.67,77.74,28,20,2,0,0,1
+3220,"Third Street Veterinary Clinic, PLLC",1,VBS Partner,NC,27344,Companion Animal,1,2,8003.05,666.92,222.31,28,19,2,0,0,1
+3545,South Novato Animal Hospital,1,VBS Partner,CA,94945,Companion Animal,4,3,19255.14,1604.6,229.23,28,21,2,0,0,2
+4467,VetMobile,1,VBS Partner,NC,27513,Companion Animal,2,0,16489.76,1374.15,687.07,28,8,2,0,0,2
+6027,Elmar Udarbe Zamora's Veterinary Home Service,1,VBS Partner,CA,94954,Companion Animal,1,0,6442.05,536.84,536.84,28,10,2,0,0,1
+2270,Colbern Road Animal Clinic,1,IMA Partner,MO,64086,Companion Animal,1,1,14340.44,1195.04,597.52,27,11,2,0,0,2
+3931,Oak Hill Veterinary Clinic,1,VBS Partner,TX,78735,Companion Animal,2,1,9770.55,814.21,271.4,27,21,2,0,0,1
+4618,Machias Veterinary Clinic,1,IMA Partner,NY,14101,Companion Animal,1,0,4075.74,339.65,339.65,27,17,2,0,0,1
+2672,Jeff Parke DVM Housecalls,1,VBS Partner,WA,98112,Companion Animal,1,0,2775.43,231.29,231.29,26,11,2,0,0,1
+2923,Cross Veterinary Clinic,1,VBS Partner,MI,48439,Companion Animal,1,0,21391.11,1782.59,1782.59,26,17,2,0,0,2
+3760,"Ark Veterinary Hospital, Inc",1,VBS Partner,OH,44691,Companion Animal,3,0,3883.55,323.63,107.88,26,24,2,0,0,1
+4492,Crossroads Animal Clinic,1,VBS Partner,GA,30024,Companion Animal,2,2,4251.2,354.27,88.57,26,16,2,0,0,1
+2254,Charlotte Street Animal Hospital,1,IMA Partner,NC,28801,Companion Animal,7,1,17002.83,1416.9,177.11,25,16,2,0,0,2
+5859,Powell Veterinary Center,1,VBS Partner,OR,97202,Companion Animal,8,3,6642.99,553.58,50.33,25,12,2,0,0,1
+4547,Merrill Animal Clinic,1,VBS Partner,FL,32277,Companion Animal,4,7,8306.15,692.18,62.93,24,13,2,0,0,1
+4562,Paws for Holistic Pet Care,1,VBS Partner,VA,20115,Companion Animal,2,0,2966.98,247.25,123.62,24,6,2,0,0,1
+5577,Budget Vet,1,VBS Partner,GA,30012,Companion Animal,1,0,16129.14,1344.1,1344.1,24,16,2,0,0,2
+3484,Gate City Animal Hospital,1,IMA Partner,NC,27455,Companion Animal,2,2,6824.25,568.69,142.17,23,14,2,0,0,1
+4031,Genito Animal Hospital,1,VBS Partner,VA,23112,Companion Animal,5,2,2879.81,239.98,34.28,23,10,2,0,0,1
+4156,Berryville Avenue Veterinary Clinic,1,VBS Partner,VA,22601,Companion Animal,1,3,11364.97,947.08,236.77,23,17,2,0,0,1
+4206,East West Veterinary Care Center,1,VBS Partner,FL,33904,Companion Animal,3,3,3257.99,271.5,45.25,23,12,2,0,0,1
+4461,Shiloh Veterinary Hospital,1,VBS Partner,PA,17315,Companion Animal,11,9,15627.84,1302.32,65.12,23,6,2,0,0,2
+2072,California Visiting Vet,1,IMA Partner,CA,94533-2752,Companion Animal,2,2,19189.89,1599.16,399.79,22,19,2,0,0,2
+3089,Park Animal Hospital,1,VBS Partner,CA,94122,Companion Animal,16,0,14355.14,1196.26,74.77,22,16,2,0,0,2
+3306,Atlantic Animal Hospital and Pet Care Resort,1,VBS Partner,NC,28405,Companion Animal,6,2,18921.95,1576.83,197.1,22,16,2,0,0,2
+3872,Coffee Veterinary Hospital,1,VBS Partner,TN,37355,Companion Animal,4,1,2324.77,193.73,38.75,22,15,2,0,0,1
+4321,Hudson Valley Animal Hospital,1,VBS Partner,NY,10989,Companion Animal,10,12,14495.99,1208,54.91,22,16,2,0,0,2
+5924,Maine Veterinary Referral Center,1,IMA Partner,ME,4074,Companion Animal,13,13,1746.65,145.55,5.6,22,9,2,0,0,1
+2569,Sunrise Pet Hospital,1,IMA Partner,CA,92808,Companion Animal,3,0,4211.89,350.99,117,21,12,2,0,0,1
+2576,Somers Animal Hospital,1,VBS Partner,NY,10589,Companion Animal,8,2,11283.37,940.28,94.03,21,9,2,0,0,1
+4607,Clover Valley Vet,1,VBS Partner,WA,98367,Equine,2,3,7770.56,647.55,129.51,21,13,2,0,0,1
+3142,Greenwood Animal Clinic,1,VBS Partner,IN,46142,Companion Animal,1,4,8540.63,711.72,142.34,20,19,2,0,0,1
+4184,Blue Cross Veterinary Hospital,1,VBS Partner,CA,90755,Companion Animal,5,1,19141.17,1595.1,265.85,20,16,2,0,0,2
+5753,Ajo Veterinary Clinic,1,VBS Partner,AZ,85713,Companion Animal,4,1,5204.5,433.71,86.74,20,14,2,0,0,1
+2298,Gentle Journey Veterinary Hospice,1,IMA Partner,PA,15209,Companion Animal,1,0,4889.28,407.44,407.44,18,16,2,0,0,1
+4394,Blanchard Valley Veterinary Clinic,1,VBS Partner,OH,45840,Companion Animal,3,11,9547.53,795.63,56.83,18,2,2,0,0,1
+6032,Low Country Pet Vaccine Clinic,1,VBS Partner,SC,29073,Companion Animal,1,1,18889.89,1574.16,787.08,18,11,2,0,0,2
+2085,Brenham Veterinary Hospital,1,IMA Partner,TX,77833,Companion Animal,10,1,10721,893.42,81.22,17,12,1,0,0,1
+2950,Lenox Hill Veterinarians,1,VBS Partner,NY,10021,Companion Animal,8,1,5382.53,448.54,49.84,17,12,1,0,0,1
+2989,Stevenson Village Veterinary Hospital,1,VBS Partner,MD,21208,Companion Animal,2,0,7678.48,639.87,319.94,17,7,1,0,0,1
+3140,Mohnacky Animal Hospital of Vista,1,VBS Partner,CA,92084,Companion Animal,13,8,6361.86,530.16,25.25,17,12,1,0,0,1
+3313,Animal Hospital of Lanesville,1,VBS Partner,IN,47136,Companion Animal,2,0,5521.14,460.1,230.05,17,15,1,0,0,1
+4524,Visiting Vet,1,VBS Partner,NY,10976,Companion Animal,1,0,3739.87,311.66,311.66,17,9,1,0,0,1
+2519,Salmon Brook Veterinary Hospital,1,VBS Partner,CT,6035,Companion Animal,13,0,9239.58,769.97,59.23,16,11,1,0,0,1
+2583,Animal Medical Center,1,VBS Partner,TN,37312,Companion Animal,3,4,13800.32,1150.03,164.29,16,13,1,0,0,2
+3824,Vetcetera,1,VBS Partner,PA,17972,Companion Animal,2,0,3176.36,264.7,132.35,16,9,1,0,0,1
+5802,Carr Veterinary Hospital,1,VBS Partner,NC,27310,Companion Animal,1,0,3490.13,290.84,290.84,16,5,1,0,0,1
+5807,Best Friends Veterinary Hospital,1,VBS Partner,OK,74146,Companion Animal,2,2,4558.91,379.91,94.98,16,7,1,0,0,1
+76625,Veterinary Housecall Services,1,VBS Partner,IL,62902,Companion Animal,1,0,991.18,82.6,82.6,16,7,1,0,0,1
+3571,Cross Creek Animal Hospital,1,VBS Partner,NC,28314,Companion Animal,8,1,12296.97,1024.75,113.86,15,10,1,0,0,2
+4389,County Seat Animal Hospital LLC,1,VBS Partner,MS,38632,Companion Animal,2,0,5274.15,439.51,219.76,15,6,1,0,0,1
+5745,East Douglas Veterinary Clinic,1,VBS Partner,KS,67206,Companion Animal,2,1,12831.71,1069.31,356.44,15,11,1,0,0,2
+2595,West Geauga Veterinary Hospital,1,VBS Partner,OH,44026,Companion Animal,6,1,1752.22,146.02,20.86,14,11,1,0,0,1
+2659,PetCalls Mobile Veterinary Clinic,1,VBS Partner,VA,20112,Companion Animal,1,0,1115.19,92.93,92.93,14,5,1,0,0,1
+4541,Animals R Special,1,VBS Partner,OH,43054,Companion Animal,2,0,4559.64,379.97,189.99,14,9,1,0,0,1
+5747,"House Call Vet, LLC",1,VBS Partner,AL,36066,Companion Animal,1,0,2528.7,210.73,210.73,14,6,1,0,0,1
+2386,Gateway Veterinary Hospital,1,VBS Partner,OR,97220,Companion Animal,6,0,18080.66,1506.72,251.12,13,6,1,0,0,2
+74476,Roseland Animal Hospital,1,VBS Partner,IN,46637,Companion Animal,3,2,7751.39,645.95,129.19,13,5,1,0,0,1
+2784,"McKenzie Animal Hospital, PC",1,IMA Partner,OR,97478,Companion Animal,11,2,2523.64,210.3,16.18,12,5,1,0,0,1
+2838,Hopmeadow Animal Hospital,1,VBS Partner,CT,6089,Companion Animal,4,1,5375.42,447.95,89.59,12,6,1,0,0,1
+3403,"Clocktower Animal Hospital, Inc.",1,VBS Partner,VA,20171,Companion Animal,12,1,7028.98,585.75,45.06,12,6,1,0,0,1
+3577,"Makai Animal Clinic, Inc.",1,VBS Partner,HI,96734,Companion Animal,6,9,4770.54,397.55,26.5,12,6,1,0,0,1
+3866,Visiting Vet,1,IMA Partner,MI,48103,Companion Animal,1,0,551.63,45.97,45.97,12,5,1,0,0,1
+5812,Brushy Creek Veterinary Clinic,1,VBS Partner,TX,78717,Companion Animal,2,1,4628.73,385.73,128.58,12,10,1,0,0,1
+3177,Animal HealthCare Center,1,VBS Partner,FL,33467,Companion Animal,7,1,5877.45,489.79,61.22,11,10,1,0,0,1
+3811,"Columbiana Veterinary Associates, Inc.",1,VBS Partner,OH,44408,Companion Animal,2,1,9539.48,794.96,264.99,11,7,1,0,0,1
+4029,Vermont New Hampshire Veterinary Clinic,1,VBS Partner,VT,5346,Companion Animal,6,1,2839.14,236.6,33.8,11,6,1,0,0,1
+4496,Jones Veterinary Hospital,1,VBS Partner,AL,36420,Companion Animal,3,0,2517.88,209.82,69.94,11,10,1,0,0,1
+4560,Columbia Animal Clinic,1,VBS Partner,OH,44028,Companion Animal,3,1,14020.66,1168.39,292.1,11,4,1,0,0,2
+5217,Crossroads Pet Professionals,1,VBS Partner,TN,37027,Companion Animal,3,7,5697.37,474.78,47.48,11,7,1,0,0,1
+1887,Oakwood Hills Animal Hospital LLC,1,IMA Partner,WI,54701,Companion Animal,2,0,14620.6,1218.38,609.19,10,8,1,0,0,2
+2115,NOAH Pet Clinic,1,VBS Partner,OH,44870,Companion Animal,4,6,21110.08,1759.17,175.92,10,8,1,0,0,2
+2661,Ridge Lake Animal Hospital,1,VBS Partner,VA,22192,Companion Animal,8,1,5100.38,425.03,47.23,10,5,1,0,0,1
+2728,Animal Wellness Clinic,1,IMA Partner,PA,17307,Companion Animal,1,2,3922.77,326.9,108.97,10,8,1,0,0,1
+3451,Adams Morgan Animal Hospital,1,IMA Partner,DC,20009,Companion Animal,3,0,19100.68,1591.72,530.57,10,3,1,0,0,2
+4039,Pet Housecalls,1,VBS Partner,TX,76367,Companion Animal,1,0,9864.71,822.06,822.06,10,5,1,0,0,1
+4173,Healthy Pet Veterinary Services,1,VBS Partner,AZ,85242,Companion Animal,1,0,3241.69,270.14,270.14,10,7,1,0,0,1
+4412,Tampa Mobile Veterinary Services LLC,1,VBS Partner,FL,33617,Companion Animal,1,0,12007.14,1000.6,1000.6,10,5,1,0,0,2
+2060,"Animal Medical of Covington, Inc.",1,IMA Partner,GA,30014,Companion Animal,1,4,5416.43,451.37,90.27,9,2,1,0,0,1
+2273,Godspeed Animal Care,1,IMA Partner,VA,23188,Companion Animal,7,1,20545.88,1712.16,214.02,9,7,1,0,0,2
+2604,Ardmore Animal Hospital,1,VBS Partner,PA,19003,Companion Animal,11,2,26002.73,2166.89,166.68,9,9,1,0,0,3
+3881,Veterinary Allergy & Dermatology Consultants,1,VBS Partner,NY,11510,Companion Animal,1,0,2381.4,198.45,198.45,9,8,1,0,0,1
+3920,Goose Creek Veterinary Clinic LLC,1,VBS Partner,SC,29445,Companion Animal,6,0,9671.76,805.98,134.33,9,6,1,0,0,1
+4811,At Home Veterinary,1,VBS Partner,NY,10036,Companion Animal,1,0,882.02,73.5,73.5,9,7,1,0,0,1
+5662,Goodyear Animal Hospital,1,VBS Partner,AZ,85338,Companion Animal,13,40,12171.4,1014.28,19.14,9,4,1,0,0,2
+5761,Rose Rock Veterinary Hospital,1,VBS Partner,OK,73069,Companion Animal,8,5,16634.42,1386.2,106.63,9,4,1,0,0,2
+5936,"Sophia C. Theodore, DVM",1,VBS Partner,NY,13617,Companion Animal,1,0,1035.15,86.26,86.26,9,5,1,0,0,1
+2407,"Atlantic Veterinary Internal Medicine, LLC",1,VBS Partner,MD,21401-3016,Companion Animal,12,1,3045.92,253.83,19.53,8,4,1,0,0,1
+2681,Little River Veterinary Clinic,1,VBS Partner,VA,22032,Companion Animal,6,2,7109.67,592.47,74.06,8,8,1,0,0,1
+2760,Alta-Wood Animal Hospital,1,VBS Partner,CA,94061,Companion Animal,1,2,1980.3,165.03,55.01,8,7,1,0,0,1
+2964,Westchester Veterinary Group,1,VBS Partner,NY,10547,Companion Animal,3,1,2048.85,170.74,42.68,8,7,1,0,0,1
+3018,"Mac's Landing Veterinary Services, PC",1,VBS Partner,MI,49408,Companion Animal,4,2,4024.16,335.35,55.89,8,7,1,0,0,1
+3879,University Bird & Small Animal Clinic,1,VBS Partner,KS,66604,Companion Animal,6,0,4534.06,377.84,62.97,8,7,1,0,0,1
+4380,Neighborhood Animal Hospital,1,VBS Partner,OR,97306,Companion Animal,1,0,4150.65,345.89,345.89,8,7,1,0,0,1
+4610,Four Paws Mobile Veterinary Clinic,1,IMA Partner,VA,23601,Companion Animal,1,0,16679.08,1389.92,1389.92,8,5,1,0,0,2
+4652,Shiloh Animal Hospital,1,IMA Partner,NC,27560,Companion Animal,2,9,8840.31,736.69,66.97,8,6,1,0,0,1
+5833,East Haven Veterinary Service,1,VBS Partner,VT,5837,Companion Animal,1,1,2987.36,248.95,124.47,8,6,1,0,0,1
+2220,Chilhowee Veterinary Clinic Inc,1,IMA Partner,TN,37803,Companion Animal,9,1,4543.19,378.6,37.86,7,4,1,0,0,1
+2268,Tri-County Veterinary Clinic,1,IMA Partner,IN,46979,Companion Animal,4,7,11030.84,919.24,83.57,7,4,1,0,0,1
+3088,Fox Animal Hospital,1,VBS Partner,IL,60201,Companion Animal,4,3,4058.04,338.17,48.31,7,2,1,0,0,1
+3228,The Carolinas Animal Hospital & Dental Clinic,1,VBS Partner,NC,28273,Companion Animal,9,9,4525.16,377.1,20.95,7,3,1,0,0,1
+4058,Metro Paws Animal Hospital,1,VBS Partner,TX,75206,Companion Animal,9,8,12620.5,1051.71,61.87,7,4,1,0,0,2
+4266,North Oatlands Animal Hospital,1,IMA Partner,VA,20175,Companion Animal,6,6,3139.06,261.59,21.8,7,6,1,0,0,1
+4478,Downtown Mobile Veterinary Services PLLC,1,VBS Partner,NC,27603,Companion Animal,1,0,3015.06,251.26,251.26,7,4,1,0,0,1
+5635,Arrow Animal Hospital,1,VBS Partner,AZ,85306,Companion Animal,17,13,17355.81,1446.32,48.21,7,5,1,0,0,2
+5649,Bell Ridge Animal Hospital,1,VBS Partner,AZ,85053,Companion Animal,10,9,5984.22,498.69,26.25,7,3,1,0,0,1
+5651,Roadrunner Animal Hospital,1,VBS Partner,AZ,85381,Companion Animal,4,11,3674.03,306.17,20.41,7,5,1,0,0,1
+5743,First Capitol Animal Hospital,1,VBS Partner,MO,63301,Companion Animal,1,5,3095.93,257.99,43,7,7,1,0,0,1
+6069,Healing Paws Veterinary Wellness Center,1,VBS Partner,MD,21146,Companion Animal,2,1,2861.33,238.44,79.48,7,5,1,0,0,1
+1999,Shiner Animal Hospital,1,IMA Partner,TX,77984,Companion Animal,2,1,11079.26,923.27,307.76,6,6,1,0,0,1
+2008,Chisholm Trail Animal Hospital PA,1,IMA Partner,KS,67219,Companion Animal,5,4,15461.36,1288.45,143.16,6,2,1,0,0,2
+2324,Elkhorn Vet Clinic,1,IMA Partner,NE,68713,Companion Animal,1,0,2277.34,189.78,189.78,6,2,1,0,0,1
+2370,Great Brook Animal Care,1,IMA Partner,ME,4027,Companion Animal,1,1,9627.9,802.33,401.16,6,3,1,0,0,1
+2371,Creature Comforts Animal Hospital,1,VBS Partner,NC,27518,Companion Animal,2,1,16151.17,1345.93,448.64,6,3,1,0,0,2
+2418,Three Counties Animal Hospital,1,VBS Partner,GA,30274,Companion Animal,3,2,9872.93,822.74,164.55,6,6,1,0,0,1
+3058,Colfax Veterinary Hospital,1,VBS Partner,CA,95713,Companion Animal,3,3,4295.68,357.97,59.66,6,6,1,0,0,1
+3434,Collins Hospital for Animals,1,VBS Partner,DC,20007,Companion Animal,3,1,6381.29,531.77,132.94,6,4,1,0,0,1
+3686,Aucoin Veterinary Services,1,IMA Partner,TX,77845,Companion Animal,1,0,2334.66,194.56,194.56,6,5,1,0,0,1
+3750,Companion Animal Hospital of Selinsgrove,1,VBS Partner,PA,17870,Companion Animal,10,0,2843.53,236.96,23.7,6,5,1,0,0,1
+3928,Cascade Animal Medical Center,1,VBS Partner,MN,55901,Companion Animal,6,0,6465.12,538.76,89.79,6,4,1,0,0,1
+4327,LIFETIME PET CENTER WILLIAMSBURG,1,VBS Partner,OH,45103,Companion Animal,3,3,8935.03,744.59,124.1,6,4,1,0,0,1
+4329,Pomona Animal Hospital,1,VBS Partner,NY,10970,Companion Animal,8,9,13677.7,1139.81,67.05,6,4,1,0,0,2
+4486,Nancy Maloney DVM,1,VBS Partner,CT,6854,Companion Animal,3,0,2894.47,241.21,80.4,6,5,1,0,0,1
+5657,Dobson Ranch Animal Hospital,1,VBS Partner,AZ,85202,Companion Animal,5,9,2696.37,224.7,16.05,6,2,1,0,0,1
+5661,Norterra Animal Hospital,1,VBS Partner,AZ,85085,Companion Animal,6,11,7613.37,634.45,37.32,6,4,1,0,0,1
+1842,Noah's Ark Companion Animal Hospital,1,IMA Partner,NC,28734,Companion Animal,2,9,14162.11,1180.18,107.29,5,2,0,0,0,2
+1963,Animal Medical Center of Jefferson City,1,IMA Partner,MO,65109,Companion Animal,2,1,7980.26,665.02,221.67,5,3,0,0,0,1
+2130,Pampered Pets Vet Clinic & Spa,1,VBS Partner,OK,73003,Companion Animal,1,1,1791.91,149.33,74.66,5,1,0,0,0,1
+2211,Vogel Veterinary Hospital,1,IMA Partner,MO,63010,Companion Animal,4,2,3229.18,269.1,44.85,5,4,0,0,0,1
+2323,Limerick Mills Animal Hospital,1,IMA Partner,ME,4048,Companion Animal,3,1,19872.54,1656.05,414.01,5,5,0,0,0,2
+2542,Camelot Court Animal Clinic,1,VBS Partner,KS,66209,Companion Animal,11,1,8901.06,741.76,61.81,5,2,0,0,0,1
+2591,Home Veterinary Service,1,VBS Partner,MN,55113,Companion Animal,1,1,3071.33,255.94,127.97,5,5,0,0,0,1
+2730,Pet Dominion,1,IMA Partner,MD,20855,Companion Animal,7,1,5077.85,423.15,52.89,5,5,0,0,0,1
+2781,Valley Animal Hospital,1,VBS Partner,NJ,7013,Companion Animal,6,1,4940.62,411.72,58.82,5,4,0,0,0,1
+3016,All Valley Pet Hospital,1,VBS Partner,CA,93454,Companion Animal,2,1,1245.47,103.79,34.6,5,4,0,0,0,1
+3214,University Parkway Animal Hospital,1,IMA Partner,TN,38305,Companion Animal,1,0,12700.53,1058.38,1058.38,5,5,0,0,0,2
+3269,Friendship Hospital for Animals,1,VBS Partner,DC,20016,Companion Animal,57,1,18666.47,1555.54,26.82,5,4,0,0,0,2
+3287,Ocean State Veterinary Specialists,1,VBS Partner,RI,2818,Companion Animal,20,2,4450.12,370.84,16.86,5,3,0,0,0,1
+3366,Animal Dermatology Center of Chicago,1,VBS Partner,IL,60618,Companion Animal,2,2,9530.85,794.24,198.56,5,0,0,0,0,1
+3383,Animal General of Cranberry Township,1,VBS Partner,PA,16066,Companion Animal,4,2,8517.74,709.81,118.3,5,3,0,0,0,1
+3840,Cape May Veterinary Hospital,1,VBS Partner,NJ,8204,Companion Animal,4,3,17008.1,1417.34,202.48,5,3,0,0,0,2
+4379,New Shoreham Veterinary Services,1,VBS Partner,RI,2879,Companion Animal,1,2,15558.44,1296.54,432.18,5,4,0,0,0,2
+4477,Manchester Animal Hospital,1,VBS Partner,NH,3106,Companion Animal,3,3,3171.8,264.32,44.05,5,4,0,0,0,1
+4674,Belle Mead Animal Hospital,1,IMA Partner,NJ,8844,Companion Animal,8,1,10558.89,879.91,97.77,5,2,0,0,0,1
+4924,Cats on Broadway Hospital,1,VBS Partner,MT,59802,Companion Animal,2,1,1019.95,85,28.33,5,4,0,0,0,1
+5619,Terrell Veterinary Center,1,VBS Partner,TX,75160,Companion Animal,2,1,27577.16,2298.1,766.03,5,5,0,0,0,3
+5650,Arrowhead Ranch Animal Hospital,1,VBS Partner,AZ,85310,Companion Animal,9,27,14305.41,1192.12,33.11,5,3,0,0,0,2
+5694,"Plantation Pet Health Center (George E. Martin, Jr. Veterinary Services)",1,VBS Partner,TX,75035,Companion Animal,2,1,4918.04,409.84,136.61,5,5,0,0,0,1
+5797,Wildcat Veterinary Service,1,VBS Partner,KS,66502,Companion Animal,1,0,3026.79,252.23,252.23,5,4,0,0,0,1
+5823,Elmwood-Grove Animal Hospital,1,VBS Partner,IL,60171,Companion Animal,3,0,1036.43,86.37,28.79,5,4,0,0,0,1
+1881,Northern Valley Animal Clinic,1,IMA Partner,MN,55906,Companion Animal,3,6,8314.88,692.91,76.99,4,3,0,0,0,1
+2128,The People's Pets,1,IMA Partner,GA,30084,Companion Animal,2,0,19075.11,1589.59,794.8,4,2,0,0,0,2
+2142,"NorthPaws Veterinary Center, Inc.",1,IMA Partner,RI,2828,Companion Animal,6,4,4946.04,412.17,41.22,4,4,0,0,0,1
+2176,Tri-City Animal & Bird Clinic,1,IMA Partner,MO,63011,Companion Animal,4,2,3615.12,301.26,50.21,4,3,0,0,0,1
+2277,"Pines Meadow Veterinarians, Ltd.",1,IMA Partner,IL,61061,Companion Animal,3,5,3721.82,310.15,38.77,4,3,0,0,0,1
+2512,"Coastside Veterinary Clinic, Inc.",1,VBS Partner,CA,94019,Companion Animal,2,1,14323.29,1193.61,397.87,4,3,0,0,0,2
+2594,Severna Park Veterinary Hospital,1,VBS Partner,MD,21146,Companion Animal,9,1,4360.6,363.38,36.34,4,4,0,0,0,1
+2632,Pet Calls,1,VBS Partner,TX,76207,Companion Animal,1,0,6898.87,574.91,574.91,4,3,0,0,0,1
+2762,Millersville Animal Hospital,1,VBS Partner,MD,21108,Companion Animal,3,0,5058.34,421.53,140.51,4,4,0,0,0,1
+2825,Shadowridge Veterinary Hospital- Vista,1,VBS Partner,CA,92083,Companion Animal,12,2,2190.9,182.58,13.04,4,4,0,0,0,1
+2853,Mapleshade Veterinary Hospital,1,VBS Partner,VA,22193,Companion Animal,4,2,4573.23,381.1,63.52,4,3,0,0,0,1
+2969,North Veterinary Clinic,1,VBS Partner,CT,6278,Companion Animal,5,0,916.6,76.38,15.28,4,3,0,0,0,1
+3360,At Home Vet Care,1,VBS Partner,NY,10526,Companion Animal,1,0,3644.33,303.69,303.69,4,3,0,0,0,1
+3601,Missouri City Veterinary Services,1,VBS Partner,TX,77459,Companion Animal,1,0,858.15,71.51,71.51,4,3,0,0,0,1
+3926,Mount Kisco Veterinary Clinic,1,VBS Partner,NY,10549,Companion Animal,4,1,9534.21,794.52,158.9,4,4,0,0,0,1
+3960,Artemis Animal Clinic,1,VBS Partner,CA,93105,Companion Animal,1,0,618.7,51.56,51.56,4,2,0,0,0,1
+3997,Century Veterinary Group,1,VBS Partner,CA,90034,Companion Animal,6,0,3878.68,323.22,53.87,4,1,0,0,0,1
+4245,Pet-Fixer INC.,1,VBS Partner,GA,30096,Companion Animal,1,0,3578.98,298.25,298.25,4,2,0,0,0,1
+4314,Riverdale Veterinary Group,1,VBS Partner,NY,10463,Companion Animal,6,1,2056.12,171.34,24.48,4,0,0,0,0,1
+4318,Dublin Animal Hospital,1,VBS Partner,VA,24084,Companion Animal,6,1,18884.66,1573.72,224.82,4,2,0,0,0,2
+4347,Narberth Animal Hospital,1,VBS Partner,PA,19072,Companion Animal,1,0,2062.64,171.89,171.89,4,4,0,0,0,1
+4499,Merrick Veterinary Group,1,VBS Partner,NY,11566,Companion Animal,4,1,3983.69,331.97,66.39,4,3,0,0,0,1
+4527,LaVale Veterinary Hospital,1,VBS Partner,MD,21502,Companion Animal,7,0,12737.65,1061.47,151.64,4,2,0,0,0,2
+4563,North Pines Animal Hospital,1,VBS Partner,TX,77318,Companion Animal,4,0,6718.78,559.9,139.97,4,4,0,0,0,1
+4939,Carolina Pets Animal Hospital,1,VBS Partner,NC,28104,Companion Animal,2,3,9662.43,805.2,161.04,4,4,0,0,0,1
+1990,Animal Health Center of Port St. Lucie Inc,1,IMA Partner,FL,34953,Companion Animal,2,1,5446.36,453.86,151.29,3,2,0,0,0,1
+2002,"Grove Veterinary Clinic, PC",1,IMA Partner,IN,47353,Companion Animal,1,0,6870.29,572.52,572.52,3,2,0,0,0,1
+2007,Greensburg Veterinary Clinic PC,1,IMA Partner,IN,47240,Companion Animal,4,2,17398.32,1449.86,241.64,3,2,0,0,0,2
+2061,Alpine Animal Hospital,1,IMA Partner,WY,82070,Companion Animal,4,1,7784.05,648.67,129.73,3,1,0,0,0,1
+2075,"Seven Bends Veterinary Hospital, LC",1,IMA Partner,VA,22664,Companion Animal,5,1,20167.65,1680.64,280.11,3,2,0,0,0,2
+2106,Arbor Creek Animal Hospital,1,IMA Partner,KS,66062,Companion Animal,1,2,17698.5,1474.88,491.63,3,3,0,0,0,2
+2278,Carmel Mountain Ranch Veterinary Hospital,1,IMA Partner,CA,92128,Companion Animal,4,1,15099.15,1258.26,251.65,3,3,0,0,0,2
+2443,Indian Creek Veterinary Hospital,1,VBS Partner,OH,43068,Companion Animal,6,21,4151.91,345.99,12.81,3,2,0,0,0,1
+2597,Care First Animal Hospital at Oberlin,1,VBS Partner,NC,27608,Companion Animal,12,2,3012.55,251.05,17.93,3,2,0,0,0,1
+2603,Battery Creek Veterinary Hospital,1,IMA Partner,SC,29906,Companion Animal,1,0,22135.55,1844.63,1844.63,3,2,0,0,0,2
+2705,Meadowbrook Animal Hospital,1,VBS Partner,PA,18942,Companion Animal,1,0,3124.64,260.39,260.39,3,3,0,0,0,1
+2712,Spears Animal Hospital,1,VBS Partner,IL,62903,Companion Animal,3,1,3647.16,303.93,75.98,3,3,0,0,0,1
+2985,Center Veterinary Clinic,1,VBS Partner,CA,92126,Companion Animal,1,0,1053.7,87.81,87.81,3,0,0,0,0,1
+3235,Broadway Veterinary Hospital and Wellness Center,1,IMA Partner,CA,95476,Companion Animal,6,0,3600.05,300,50,3,3,0,0,0,1
+3323,Pet Vet Family Pet Care Center,1,IMA Partner,MI,49009,Companion Animal,7,1,2548.4,212.37,26.55,3,3,0,0,0,1
+3699,Animal Clinic of Flour Bluff,1,VBS Partner,TX,78418,Companion Animal,1,0,11959.7,996.64,996.64,3,1,0,0,0,1
+3890,Community Pet Hospital,1,VBS Partner,CO,80241,Companion Animal,18,2,12677.83,1056.49,52.82,3,3,0,0,0,2
+3948,Key City Veterinary Clinic,1,VBS Partner,TX,79602,Companion Animal,3,1,757.6,63.13,15.78,3,2,0,0,0,1
+4331,Brooklyn Cares Veterinary Clinic,1,IMA Partner,NY,11238,Companion Animal,3,1,3838.51,319.88,79.97,3,1,0,0,0,1
+4619,Olde Towne Animal Hospital,1,IMA Partner,GA,30188,Companion Animal,1,1,16479.53,1373.29,686.65,3,3,0,0,0,2
+5637,Animal Hospital at Anthem,1,VBS Partner,AZ,85086,Companion Animal,5,7,3658.94,304.91,25.41,3,3,0,0,0,1
+5652,Westbrook Animal Hospital,1,VBS Partner,AZ,85382,Companion Animal,8,9,2259.67,188.31,11.08,3,1,0,0,0,1
+5759,Bethel Animal Hospital,1,VBS Partner,KS,66109,Companion Animal,2,0,8818.41,734.87,367.43,3,2,0,0,0,1
+5980,Gaslight Square Animal Hospital,1,VBS Partner,KY,40299,Companion Animal,1,2,3795.06,316.26,105.42,3,1,0,0,0,1
+1884,"East End Veterinary Medical Centre, P.C.",1,IMA Partner,PA,15232,Companion Animal,2,4,13916.21,1159.68,193.28,2,1,0,0,0,2
+1996,Fairborn Animal Hospital,1,IMA Partner,OH,45324,Companion Animal,1,1,8166.14,680.51,340.26,2,0,0,0,0,1
+2024,South 71 Veterinary Clinic,1,IMA Partner,MN,56201,Companion Animal,8,3,5213.87,434.49,39.5,2,0,0,0,0,1
+2034,"HHD Mobile Veterinary Clinic,LLC",1,IMA Partner,VA,22567,Companion Animal,1,0,3123.76,260.31,260.31,2,2,0,0,0,1
+2222,Pet Wellness Clinics of America - Binford,1,IMA Partner,IN,46220,Companion Animal,5,1,6666.3,555.53,92.59,2,2,0,0,0,1
+2275,Richfield Area Pet Clinic,1,IMA Partner,WI,53033,Companion Animal,1,0,4023.9,335.33,335.33,2,1,0,0,0,1
+2364,The Barefoot Veterinarian,1,IMA Partner,CA,92869,Companion Animal,1,0,4154.46,346.21,346.21,2,1,0,0,0,1
+2662,City Pets Vet,1,VBS Partner,NY,10019,Companion Animal,2,3,4445.9,370.49,74.1,2,2,0,0,0,1
+2692,All Creatures Great and Small Veterinary Practice,1,VBS Partner,IL,60515,Companion Animal,5,1,3288.63,274.05,45.68,2,0,0,0,0,1
+2951,Companion Animal Hospital,1,VBS Partner,NC,27614,Companion Animal,6,0,1357.78,113.15,18.86,2,2,0,0,0,1
+3082,Veterinary Hospital of New Waverly,1,VBS Partner,TX,77358,Companion Animal,3,0,1851.55,154.3,51.43,2,1,0,0,0,1
+3139,Sawnee Animal Clinic,1,VBS Partner,GA,30040,Companion Animal,2,0,4900.49,408.37,204.19,2,1,0,0,0,1
+3183,Companions Animal Hospital,1,VBS Partner,ID,83706,Companion Animal,3,2,1935.24,161.27,32.25,2,1,0,0,0,1
+3222,Honey Creek Animal Hospital,1,VBS Partner,IN,47802,Companion Animal,1,1,6006.56,500.55,250.27,2,2,0,0,0,1
+3237,Springfield Animal Hospital,1,VBS Partner,PA,19064,Companion Animal,3,1,4743.37,395.28,98.82,2,2,0,0,0,1
+3363,Animal Medical Center,1,VBS Partner,PA,19426,Companion Animal,5,3,5099.82,424.99,53.12,2,2,0,0,0,1
+3556,Kryder Veterinary Clinic,1,VBS Partner,IN,46530,Companion Animal,8,1,6244.64,520.39,57.82,2,2,0,0,0,1
+3657,"Suzanne Bliesath DVM, LLC",1,VBS Partner,NJ,7853,Companion Animal,5,0,2024.69,168.72,33.74,2,0,0,0,0,1
+4087,Animal Hospital of Lakeport,1,VBS Partner,MI,48059,Companion Animal,1,0,1582.95,131.91,131.91,2,2,0,0,0,1
+4130,Harmony Animal Wellness,1,VBS Partner,CO,80457,Companion Animal,2,1,1720.9,143.41,47.8,2,1,0,0,0,1
+4231,Breezeway Veterinary Service Inc.,1,VBS Partner,TX,75034,Companion Animal,1,2,9015.11,751.26,250.42,2,0,0,0,0,1
+4341,Animal Health Center of North Olmsted,1,VBS Partner,OH,44070,Companion Animal,3,0,4251.7,354.31,118.1,2,2,0,0,0,1
+4469,Shane Veterinary Medical Center,1,VBS Partner,CA,90292,Companion Animal,2,1,3241.5,270.13,90.04,2,2,0,0,0,1
+4471,Pet Bliss Mobile Veterinary Services,1,VBS Partner,TN,37211,Companion Animal,1,0,18869.79,1572.48,1572.48,2,2,0,0,0,2
+4549,Lakeway Animal Medical and Surgical Clinic,1,VBS Partner,TX,77318,Companion Animal,6,4,2547.06,212.26,21.23,2,1,0,0,0,1
+4660,Animal Health Care Center,1,VBS Partner,WA,98057,Companion Animal,8,2,5950.61,495.88,49.59,2,1,0,0,0,1
+4675,New Hartford Animal Hospital & Care Center,1,IMA Partner,NY,13413,Companion Animal,7,2,3905.4,325.45,36.16,2,1,0,0,0,1
+5647,Dove Valley Animal Hospital,1,VBS Partner,AZ,85331,Companion Animal,5,12,3738.77,311.56,18.33,2,1,0,0,0,1
+5783,Howdershell Animal Clinic,1,VBS Partner,MO,63031,Companion Animal,7,1,3836.25,319.69,39.96,2,2,0,0,0,1
+10908,Pet Housecalls Inc.,1,VBS Partner,IN,47401,Companion Animal,1,0,1749.45,145.79,145.79,2,0,0,0,0,1
+1892,Rockland Veterinary,1,IMA Partner,NY,10970,Companion Animal,8,9,2202.87,183.57,10.8,1,1,0,0,0,1
+1912,City Cat Mobile Vet Service LLC,1,IMA Partner,WA,98102,Companion Animal,1,0,4115.76,342.98,342.98,1,1,0,0,0,1
+1995,All Animal Clinic,1,IMA Partner,FL,33040,Companion Animal,5,9,6694.8,557.9,39.85,1,1,0,0,0,1
+2017,"MARYSVILLE ANIMAL CARE CENTER, INC.",1,IMA Partner,OH,43040,Companion Animal,3,1,7774.15,647.85,161.96,1,1,0,0,0,1
+2097,Gosling Road Veterinary Clinic,1,VBS Partner,TX,77389,Companion Animal,1,2,2647.54,220.63,73.54,1,0,0,0,0,1
+2154,Southgate Veterinary Hospital,1,IMA Partner,CA,95823,Companion Animal,2,6,8249.09,687.42,85.93,1,1,0,0,0,1
+2186,West Side Pet Hospital,1,IMA Partner,IN,47720,Companion Animal,4,0,4351.23,362.6,90.65,1,1,0,0,0,1
+2267,"Suburban Animal Clinic of Columbus Ohio, Inc.",1,VBS Partner,OH,43204,Companion Animal,6,6,20992.52,1749.38,145.78,1,1,0,0,0,2
+2316,Northridge Animal Medical Center,1,IMA Partner,CA,91324,Companion Animal,1,0,3676.37,306.36,306.36,1,0,0,0,0,1
+2448,Davis Lake Animal Hospital,1,IMA Partner,NC,28269,Companion Animal,1,0,2585.89,215.49,215.49,1,1,0,0,0,1
+2475,Cherry Valley Animal Clinic,1,VBS Partner,OH,43055,Companion Animal,1,0,9730.21,810.85,810.85,1,1,0,0,0,1
+2504,Waldorf Animal Clinic,1,VBS Partner,MD,20604,Companion Animal,9,1,942.99,78.58,7.86,1,1,0,0,0,1
+2506,Oro Valley Pet Clinic,1,VBS Partner,AZ,85737,Companion Animal,1,0,3522.88,293.57,293.57,1,1,0,0,0,1
+2623,Cardiology Northwest,1,VBS Partner,OR,97035-3446,Companion Animal,2,2,3694.9,307.91,76.98,1,0,0,0,0,1
+2671,Austin Avenue Pet Clinic,1,VBS Partner,TX,76801,Companion Animal,3,0,3025.5,252.13,84.04,1,1,0,0,0,1
+2701,St. Marks Veterinary Hospital,1,IMA Partner,NY,10003,Companion Animal,20,0,2902.75,241.9,12.09,1,1,0,0,0,1
+2731,Lake Howell Animal Clinic,1,VBS Partner,FL,32751,Companion Animal,7,2,21565.69,1797.14,199.68,1,0,0,0,0,2
+2779,Animal Hospital of San Antonio,1,VBS Partner,TX,78230,Companion Animal,1,3,8308.28,692.36,173.09,1,1,0,0,0,1
+3005,Pasadena Animal Hospital,1,VBS Partner,MD,21122,Companion Animal,7,0,2772.44,231.04,33.01,1,0,0,0,0,1
+3173,The Animal Place Veterinary Hospital,1,VBS Partner,MD,20906,Companion Animal,7,1,4450.73,370.89,46.36,1,0,0,0,0,1
+3176,Tomichi Pet Care Center,1,VBS Partner,CO,81230,Companion Animal,2,1,482.9,40.24,13.41,1,1,0,0,0,1
+3380,Wheatland Animal Hospital,1,VBS Partner,IL,60564,Companion Animal,5,0,2318.76,193.23,38.65,1,1,0,0,0,1
+3387,Crossroads Mobile Vet,1,VBS Partner,MA,1772,Companion Animal,1,0,1336.38,111.37,111.37,1,1,0,0,0,1
+3479,Companion Pet Clinic of Salmon Creek,1,VBS Partner,WA,98685,Companion Animal,6,0,397.73,33.14,5.52,1,0,0,0,0,1
+3589,Veterinary Medical Center of CNY,1,VBS Partner,NY,13057,Companion Animal,7,0,239.5,19.96,2.85,1,1,0,0,0,1
+3734,Town and Country Veterinary Hospital,1,VBS Partner,NC,27523,Companion Animal,6,1,4158.33,346.53,49.5,1,1,0,0,0,1
+4108,Bend Animal Hospital,1,VBS Partner,OR,97701,Companion Animal,2,0,2203.35,183.61,91.81,1,1,0,0,0,1
+4118,Animal Medical Center of McKinney,1,IMA Partner,TX,75070,Companion Animal,1,0,11676.02,973,973,1,1,0,0,0,1
+4139,VetCare,1,VBS Partner,PA,19053,Companion Animal,1,0,725.73,60.48,60.48,1,1,0,0,0,1
+4183,Calusa Veterinary Center,1,VBS Partner,FL,33487,Companion Animal,8,2,7368.01,614,61.4,1,0,0,0,0,1
+4310,Paris Hill Cat Hospital,1,IMA Partner,NY,13456,Companion Animal,5,0,3523.3,293.61,58.72,1,1,0,0,0,1
+4312,Colbert Animal Clinic,1,IMA Partner,AL,35674,Companion Animal,1,0,3074.55,256.21,256.21,1,0,0,0,0,1
+4344,South Town Animal Hospital,1,VBS Partner,IL,60177,Companion Animal,3,7,1817.27,151.44,15.14,1,1,0,0,0,1
+4376,The Animal Medical Center of Mid America,1,VBS Partner,MO,63110,Companion Animal,41,0,1981.93,165.16,4.03,1,1,0,0,0,1
+4453,Two Rivers Animal Hospital,1,VBS Partner,NJ,7704,Companion Animal,2,1,16596.11,1383.01,461,1,1,0,0,0,2
+4493,Pawsitive Veterinary of New York,1,VBS Partner,NY,11218,Companion Animal,4,2,15428.6,1285.72,214.29,1,0,0,0,0,2
+4568,Centreville Animal Hospital,1,VBS Partner,VA,20121,Companion Animal,11,0,3888.45,324.04,29.46,1,0,0,0,0,1
+4670,Countryside Veterinary Hospital,1,VBS Partner,PA,15642,Companion Animal,3,2,775.63,64.64,12.93,1,1,0,0,0,1
+5546,Kodiak Veterinary Hospital,1,VBS Partner,NH,3051,Companion Animal,1,5,993.19,82.77,13.79,1,1,0,0,0,1
+5616,Visiting Veterinary Practice of Westchester,1,VBS Partner,NY,10547,Companion Animal,1,0,3924.27,327.02,327.02,1,0,0,0,0,1
+5648,Beardsley Animal Hospital,1,VBS Partner,AZ,85308,Companion Animal,12,8,3860.82,321.74,16.09,1,0,0,0,0,1
+5668,Happy Valley Animal Hospital,1,VBS Partner,AZ,85310,Companion Animal,6,14,1726.06,143.84,7.19,1,1,0,0,0,1
+5876,Silver Creek Animal Clinic,1,VBS Partner,UT,84098,Companion Animal,3,1,2644.83,220.4,55.1,1,1,0,0,0,1
+6036,Huguenot Animal Hospital,1,VBS Partner,VA,23235,Companion Animal,1,1,1327.25,110.6,55.3,1,1,0,0,0,1
+1952,Hazel Dell Animal Hospital,1,IMA Partner,IN,46033,Companion Animal,2,1,8416.45,701.37,233.79,0,0,0,0,0,1
+2029,"Lifetime Small Animal Hospital, PC",1,IMA Partner,WY,82414,Companion Animal,4,1,2515.55,209.63,41.93,0,0,0,0,0,1
+2030,The Family Pet Veterinary Clinic,1,IMA Partner,IA,52358,Companion Animal,3,1,4683.5,390.29,97.57,0,0,0,0,0,1
+2040,Creekside Animal Hospital,1,IMA Partner,TX,76018,Companion Animal,3,1,4626.64,385.55,96.39,0,0,0,0,0,1
+2050,"Grandview Veterinary Clinic, P.C.",1,IMA Partner,TX,79762,Companion Animal,9,4,11659.05,971.59,74.74,0,0,0,0,0,1
+2063,"West River Veterinary Clinic, PC",1,IMA Partner,ND,58639,Companion Animal,3,2,925.2,77.1,15.42,0,0,0,0,0,1
+2076,Animal Care Clinic,1,IMA Partner,KY,40513,Companion Animal,3,3,3870.83,322.57,53.76,0,0,0,0,0,1
+2123,Lisbon Veterinary Clinic,1,IMA Partner,OH,44432,Companion Animal,8,1,22978.49,1914.87,212.76,0,0,0,0,0,2
+2201,RLM Veterinary Services PC,1,IMA Partner,IN,47265,Companion Animal,1,1,3961.33,330.11,165.06,0,0,0,0,0,1
+2257,Honey Creek Veterinary Hospital Inc.,1,IMA Partner,MO,64683,Companion Animal,2,1,4909.53,409.13,136.38,0,0,0,0,0,1
+2295,Heartland Animal Hospital PC,1,IMA Partner,NE,68005,Companion Animal,5,1,4762.95,396.91,66.15,0,0,0,0,0,1
+2302,Town & Country Animal Clinic,1,IMA Partner,MO,64085,Companion Animal,1,2,1229.72,102.48,34.16,0,0,0,0,0,1
+2332,Farm & Pet Veterinary Care,1,IMA Partner,MI,48770,Companion Animal,1,2,2457.9,204.83,68.28,0,0,0,0,0,1
+2374,Veterinary Behavior Solutions,1,IMA Partner,TX,75006,Companion Animal,1,0,8315.79,692.98,692.98,0,0,0,0,0,1
+2378,AAA Pet Services,1,VBS Partner,NC,28217,Companion Animal,1,0,3805.8,317.15,317.15,0,0,0,0,0,1
+2385,South Mesquite Veterinary Hospital,1,IMA Partner,TX,75149,Companion Animal,1,0,2377.13,198.09,198.09,0,0,0,0,0,1
+2469,Crossroads Animal Hospital,1,VBS Partner,OH,44136,Companion Animal,4,2,7860.55,655.05,109.17,0,0,0,0,0,1
+2532,Refugee Canyon Veterinary Services,1,VBS Partner,OH,43025,Companion Animal,4,1,4785.33,398.78,79.76,0,0,0,0,0,1
+2535,Mayfair Village Animal Hospital,1,IMA Partner,TX,76054,Companion Animal,2,0,866.48,72.21,36.1,0,0,0,0,0,1
+2612,"Georgetown Animal Clinic, PC",1,VBS Partner,NY,14221,Companion Animal,11,1,2209.13,184.09,15.34,0,0,0,0,0,1
+2629,Carnegie Hill Veterinarians,1,VBS Partner,NY,10128,Companion Animal,4,0,1989.22,165.77,41.44,0,0,0,0,0,1
+2651,Roslyn-Greenvale Veterinary Group,1,VBS Partner,NY,11548,Companion Animal,5,2,5775.38,481.28,68.75,0,0,0,0,0,1
+2663,Four Corners Animal Hospital,1,VBS Partner,MD,20901,Companion Animal,3,4,9209.01,767.42,109.63,0,0,0,0,0,1
+2716,Veterinary Specialty Hospital,1,VBS Partner,CA,92121,Companion Animal,11,0,1017.25,84.77,7.71,0,0,0,0,0,1
+2743,Guardian Pet Hospital,1,VBS Partner,TX,76209,Companion Animal,2,4,3404.14,283.68,47.28,0,0,0,0,0,1
+2763,The Cat Clinic of Orange County,1,VBS Partner,CA,92627,Companion Animal,4,2,252.75,21.06,3.51,0,0,0,0,0,1
+2910,Kraft Mobile Veterinary Service,1,VBS Partner,WA,98291,Companion Animal,1,0,1062.7,88.56,88.56,0,0,0,0,0,1
+2916,Dana-Capistrano Animal Clinic,1,VBS Partner,CA,92629,Companion Animal,1,2,2110.84,175.9,58.63,0,0,0,0,0,1
+2936,Colonial Animal Hospital,1,IMA Partner,VA,22150,Companion Animal,3,1,11852.16,987.68,246.92,0,0,0,0,0,1
+2966,Lexington Animal Hospital,1,VBS Partner,NJ,7066,Companion Animal,3,0,4141.8,345.15,115.05,0,0,0,0,0,1
+3057,River Oaks Animal Hospital,1,VBS Partner,FL,32779,Companion Animal,14,0,2927.5,243.96,17.43,0,0,0,0,0,1
+3126,Complete Care,1,IMA Partner,NY,10301,Companion Animal,8,1,916.75,76.4,8.49,0,0,0,0,0,1
+3165,Crawford Animal Hospital,1,VBS Partner,WI,53228,Companion Animal,2,0,5117.18,426.43,213.22,0,0,0,0,0,1
+3174,Woodcrest Veterinary Clinic,1,VBS Partner,CA,92508,Companion Animal,3,0,2111.83,175.99,58.66,0,0,0,0,0,1
+3221,Animal Hospital of Clemmons,1,IMA Partner,NC,27012,Companion Animal,6,1,1288.5,107.38,15.34,0,0,0,0,0,1
+3231,Herbst Veterinary Hospital,1,VBS Partner,TX,78006,Companion Animal,6,1,2420.78,201.73,28.82,0,0,0,0,0,1
+3311,The Traveling Vet,1,VBS Partner,IL,60657,Companion Animal,1,0,393.75,32.81,32.81,0,0,0,0,0,1
+3401,Berglund Animal Hospital,1,VBS Partner,IL,60201,Companion Animal,6,1,684.1,57.01,8.14,0,0,0,0,0,1
+3409,Heritage Square Animal Clinic,1,VBS Partner,TX,75044,Companion Animal,2,0,2646.35,220.53,110.26,0,0,0,0,0,1
+3417,Campus Veterinary Clinic,1,VBS Partner,CA,94709,Companion Animal,5,1,3687.53,307.29,51.22,0,0,0,0,0,1
+3473,Belle Haven Animal Medical Centre,1,VBS Partner,VA,22307,Companion Animal,8,0,2295.62,191.3,23.91,0,0,0,0,0,1
+3535,"Fishers Veterinary Associates, Inc.",1,VBS Partner,IN,46038,Companion Animal,9,2,1378.01,114.83,10.44,0,0,0,0,0,1
+3540,Town and Country Pet Hospital,1,VBS Partner,TX,75244,Companion Animal,2,0,6052.31,504.36,252.18,0,0,0,0,0,1
+3582,Brookfield Veterinary Hospital,1,IMA Partner,WA,98052,Companion Animal,7,1,1329.1,110.76,13.84,0,0,0,0,0,1
+3602,Hollin Hall Animal Hospital,1,VBS Partner,VA,22308,Companion Animal,11,1,1778.87,148.24,12.35,0,0,0,0,0,1
+3621,Northland Animal Hospital,1,VBS Partner,MI,49341,Companion Animal,3,0,873.1,72.76,24.25,0,0,0,0,0,1
+3638,Washington Crossing Animal Hospital,1,IMA Partner,PA,18977,Companion Animal,2,0,182.9,15.24,7.62,0,0,0,0,0,1
+3740,Verona Animal Hospital,1,VBS Partner,NJ,7044,Companion Animal,4,2,1028.25,85.69,14.28,0,0,0,0,0,1
+3744,Animal Care Center of Hays County,1,VBS Partner,TX,78666,Companion Animal,1,0,1644.3,137.03,137.03,0,0,0,0,0,1
+3747,VCA Loomis Basin Veterinary Clinic,1,VBS Partner,CA,95650,Companion Animal,56,1,3300.57,275.05,4.83,0,0,0,0,0,1
+3810,Patterson Dog And Cat Hospital Incorporated,1,VBS Partner,MI,48208,Companion Animal,2,0,521.64,43.47,21.74,0,0,0,0,0,1
+3891,South East Veterinary Dermatology and Ear Clinic,1,VBS Partner,SC,29464,Companion Animal,5,1,1012.85,84.4,14.07,0,0,0,0,0,1
+3896,Ceglinski Animal Clinic,1,VBS Partner,KY,42001,Companion Animal,3,0,3612.9,301.08,100.36,0,0,0,0,0,1
+3934,Dearborn Animal Clinic,1,IMA Partner,KS,66202,Companion Animal,4,1,1183.37,98.61,19.72,0,0,0,0,0,1
+3963,Falconbridge Animal Hospital,1,VBS Partner,NC,27707,Companion Animal,8,1,801,66.75,7.42,0,0,0,0,0,1
+3971,"Sunderland Animal Hospital, Inc",1,VBS Partner,MA,1375,Companion Animal,1,0,1234.9,102.91,102.91,0,0,0,0,0,1
+4007,West Kendall Animal Hospital,1,VBS Partner,FL,33196,Companion Animal,2,0,681.67,56.81,28.4,0,0,0,0,0,1
+4020,"John G Hynes, DVM PC",1,VBS Partner,NY,10309,Companion Animal,1,0,948.5,79.04,79.04,0,0,0,0,0,1
+4126,Larkspur Cat Clinic,1,VBS Partner,AZ,85029,Companion Animal,1,0,266.73,22.23,22.23,0,0,0,0,0,1
+4144,Edinburgh Animal Hospital,1,VBS Partner,VA,23322,Companion Animal,7,0,804.5,67.04,9.58,0,0,0,0,0,1
+4211,Mission Road Animal Clinic,1,IMA Partner,KS,66206,Companion Animal,2,0,1381.05,115.09,57.54,0,0,0,0,0,1
+4271,Orcutt Veterinary Hospital,1,VBS Partner,CA,93455,Companion Animal,3,0,2702.96,225.25,75.08,0,0,0,0,0,1
+4311,The Paw Patch Place,1,VBS Partner,IN,46220,Companion Animal,2,0,996.55,83.05,41.52,0,0,0,0,0,1
+4367,Blue Sky Animal Hospital,1,VBS Partner,MN,55092,Companion Animal,3,10,1253.15,104.43,8.03,0,0,0,0,0,1
+4385,Personal Veterinary Care,1,VBS Partner,TX,76513,Companion Animal,1,0,3626.82,302.24,302.24,0,0,0,0,0,1
+4480,Dr Sams Veterinary House Calls PC,1,VBS Partner,PA,18103,Companion Animal,1,1,551.46,45.96,22.98,0,0,0,0,0,1
+4510,Blue Oak Veterinary Hospital,1,VBS Partner,CA,95642,Companion Animal,3,3,4870.39,405.87,67.64,0,0,0,0,0,1
+4522,Pola Mobile Pet Care,1,VBS Partner,FL,32608,Companion Animal,1,0,73.95,6.16,6.16,0,0,0,0,0,1
+4529,Carmel Veterinary Clinic,1,VBS Partner,IN,46033,Companion Animal,5,1,302.85,25.24,4.21,0,0,0,0,0,1
+4634,Texas Family Pet,1,IMA Partner,TX,75071,Companion Animal,2,1,306.85,25.57,8.52,0,0,0,0,0,1
+5118,Werntz Memorial Animal Hospital,1,IMA Partner,PA,15235,Companion Animal,1,0,299.9,24.99,24.99,0,0,0,0,0,1
+5605,Animal Emergency & Referral Associates Employee Store,1,VBS Partner,NJ,7004,Companion Animal,5,1,10152.97,846.08,141.01,0,0,0,0,0,1
+5666,Surprise Animal Hospital,1,VBS Partner,AZ,85379,Companion Animal,11,18,10626.64,885.55,30.54,0,0,0,0,0,1
+5667,Scottsdale Hills Animal Hospital,1,VBS Partner,AZ,85254,Companion Animal,5,15,2234.46,186.21,9.31,0,0,0,0,0,1
+5728,Newton Animal Hospital,1,VBS Partner,KS,67114,Companion Animal,3,1,2520.34,210.03,52.51,0,0,0,0,0,1
+5860,Angel Fire Small Animal Hospital,1,VBS Partner,NM,87710,Companion Animal,1,1,6988.71,582.39,291.2,0,0,0,0,0,1
+11689,My Pet's MVP,1,VBS Partner,TX,75104,Companion Animal,1,1,512.73,42.73,21.36,0,0,0,0,0,1
+8446,Red Bank Veterinary Hospital,1,VBS Partner,NJ,7724,Companion Animal,154,15,310156.02,25846.34,152.94,743,454,62,158023,47014,4
+2105,Bean Blossom Animal Clinic,1,IMA Partner,IN,47448,Companion Animal,2,6,84687.85,7057.32,882.17,10,10,1,99630,98,4
+4617,Connecticut Valley Veterinary Associates,1,VBS Partner,CT,6457,Companion Animal,51,9,99134.86,8261.24,137.69,117,57,10,74854,4379,4
+2247,Town & Country Veterinary Clinic,1,IMA Partner,GA,30062,Companion Animal,6,1,40523.97,3377,482.43,19,6,2,43883,11164,4
+2320,Acredale Animal Hospital,1,IMA Partner,VA,23464,Companion Animal,6,0,46317.55,3859.8,643.3,1,1,0,31050,12724,4
+5351,Valley Animal Hospital,1,VBS Partner,AZ,85711,Companion Animal,22,9,34287.89,2857.32,92.17,27,12,2,27399,13792,3
+4621,American Animal Hospital,1,IMA Partner,NE,68164,Companion Animal,9,14,32705.99,2725.5,118.5,250,110,21,21594,4429,3
+3790,Coral Veterinary Clinic,1,VBS Partner,FL,33919,Companion Animal,11,3,41244.27,3437.02,245.5,100,90,8,20588,6048,4
+2600,Greater Annapolis Veterinary Hospital,1,VBS Partner,MD,21401,Companion Animal,41,32,115716.63,9643.05,132.1,328,133,27,19023,7523,4
+4682,Murphy Road Animal Hospital,1,VBS Partner,TN,37209,Companion Animal,13,4,83392.81,6949.4,408.79,122,68,10,17401,5994,4
+4692,Brady's Run Veterinary Hospital,1,IMA Partner,PA,15066,Companion Animal,3,0,62737.94,5228.16,1742.72,9,7,1,17206,1387,4
+1906,"Ralston Veterinary Clinic, Inc",1,IMA Partner,NE,68127,Companion Animal,15,11,48237.03,4019.75,154.61,176,85,15,16495,10117,4
+2113,"Union Lake Veterinary Hospital, P.C.",1,IMA Partner,MI,48327,Companion Animal,1,1,40436.77,3369.73,1684.87,11,11,1,16393,3514,4
+2269,Hamilton Veterinary Hospital,1,VBS Partner,NJ,8610,Companion Animal,7,4,31521.4,2626.78,238.8,8,5,1,16029,3541,3
+6013,St. Matthews Animal Clinic,1,VBS Partner,KY,40207,Companion Animal,7,20,108712.93,9059.41,335.53,242,131,20,14267,6029,4
+2690,Bees Ferry Veterinary Hospital,1,VBS Partner,SC,29414,Companion Animal,10,3,79116.46,6593.04,507.16,535,158,45,13216,4988,4
+3723,Hometown Animal Hospital & Dental Clinic,1,VBS Partner,FL,33326,Companion Animal,12,23,44020.53,3668.38,104.81,519,147,43,12954,7917,4
+1896,Gunston and Dale City Animal Hospitals,1,IMA Partner,VA,22079,Companion Animal,13,6,69647.63,5803.97,305.47,123,68,10,12747,4460,4
+3048,Care Pets Animal Hospital,1,VBS Partner,IN,47172,Companion Animal,3,15,83338.95,6944.91,385.83,353,255,29,12500,2269,4
+3585,Hunt Valley Animal Hospital,1,VBS Partner,MD,21030,Companion Animal,10,5,84048.08,7004.01,466.93,208,137,17,12298,3045,4
+2350,Kindness Animal Hospital,1,IMA Partner,MA,2452,Companion Animal,4,3,45917.75,3826.48,546.64,24,8,2,11064,3329,4
+3449,Northern Pike Veterinary Hospital,1,VBS Partner,PA,15146,Companion Animal,8,6,74633.61,6219.47,444.25,9,7,1,10882,1494,4
+2606,Holly Tree Animal Hospital,1,VBS Partner,SC,29681,Companion Animal,3,0,71446.65,5953.89,1984.63,431,235,36,10080,1432,4
+1968,"Stoney Creek Veterinary Hospital, Inc.",1,IMA Partner,PA,19070,Companion Animal,6,5,34326,2860.5,260.05,51,23,4,9415,5520,3
+4016,CityPaws Animal Hospital,1,VBS Partner,DC,20009,Companion Animal,13,3,92092.37,7674.36,479.65,206,120,17,9221,5816,4
+2073,Martinez Animal Hospital,1,IMA Partner,CA,94553,Companion Animal,4,11,45474.42,3789.54,252.64,57,52,5,9165,2809,4
+2619,Salisbury Animal Hospital,1,VBS Partner,MD,21801,Companion Animal,2,3,77390.97,6449.25,1289.85,261,91,22,8525,823,4
+2276,Cedar Lane Animal Clinic,1,IMA Partner,NJ,8873,Companion Animal,13,2,35886.9,2990.58,199.37,5,3,0,8330,3553,3
+4111,Sunbury Animal Hospital,1,VBS Partner,PA,17801,Companion Animal,15,6,31577.15,2631.43,125.31,149,66,12,8204,3226,3
+2018,Berrien Veterinary Services,1,IMA Partner,MI,49101,Companion Animal,3,2,55592.4,4632.7,926.54,10,8,1,7751,1151,4
+3755,Western Branch Veterinary Hospital,1,VBS Partner,VA,23321,Companion Animal,13,1,47563.94,3963.66,283.12,100,63,8,7630,814,4
+2366,Bethany Animal Hospital LLC,1,IMA Partner,IL,60178,Companion Animal,6,25,51503.89,4291.99,138.45,46,33,4,6956,3281,4
+2449,Haverford Animal Hospital,1,VBS Partner,PA,19041,Companion Animal,2,2,41222.57,3435.21,858.8,124,66,10,6722,1284,4
+3029,Animal Medical Center of Mt. Washington,1,VBS Partner,MD,21209,Companion Animal,13,1,39424.79,3285.4,234.67,52,26,4,6516,3361,4
+3835,Central Animal Hospital,1,VBS Partner,CA,95008-0656,Companion Animal,15,1,58569.52,4880.79,305.05,428,329,36,6360,4799,4
+2108,Cleary Lake Veterinary Hospital,1,IMA Partner,MN,55372,Companion Animal,8,1,36978.19,3081.52,342.39,4,3,0,6333,3680,4
+2483,Shelby Street Veterinary Hospital,1,VBS Partner,KY,41042,Companion Animal,6,1,43829.51,3652.46,521.78,19,15,2,6293,162,4
+2417,Muddy Creek Animal Hospital,1,VBS Partner,MD,20778,Companion Animal,6,4,31538.59,2628.22,262.82,271,108,23,6044,4020,3
+3219,Griffith Small Animal Hospital,1,VBS Partner,TX,78731,Companion Animal,17,3,49811.68,4150.97,207.55,110,56,9,5836,2984,4
+5794,Andover Veterinary Clinic,1,IMA Partner,KS,67002,Companion Animal,5,3,43813.27,3651.11,456.39,185,99,15,5738,1405,4
+1943,Virginia Beach Veterinary Hospital,1,IMA Partner,VA,23455,Companion Animal,4,3,32195.9,2682.99,383.28,69,20,6,5598,3592,3
+3523,Arlington Animal Hospital,1,VBS Partner,VA,22204,Companion Animal,7,3,47818.55,3984.88,398.49,17,11,1,5597,4102,4
+2099,Vinegar Hill Veterinary Group,1,IMA Partner,NY,11201,Companion Animal,6,2,39436.54,3286.38,410.8,309,106,26,5202,4296,4
+5452,Cat Clinic of Cary,1,VBS Partner,NC,27513,Companion Animal,3,2,42381.22,3531.77,706.35,194,84,16,5150,2137,4
+74589,Crestwood Animal Hospital,1,VBS Partner,KY,40014,Companion Animal,4,2,33672.71,2806.06,467.68,82,49,7,5131,3625,3
+4218,All-Star Veterinary Clinic,1,VBS Partner,IN,46074,Companion Animal,4,4,35961.01,2996.75,374.59,41,26,3,4895,2635,3
+2391,LakeCross Veterinary Hospital,1,VBS Partner,NC,28078,Companion Animal,10,3,184539.45,15378.29,1182.95,656,249,55,4835,3852,4
+5901,Sea Girt Animal Hospital,1,VBS Partner,NJ,08750-1003,Companion Animal,8,2,30732.96,2561.08,256.11,128,61,11,4833,3115,3
+2450,Fairland Animal Hospital,1,VBS Partner,MD,20904,Companion Animal,5,2,30616.96,2551.41,364.49,25,20,2,4636,3299,3
+2077,Battleground Hospital for Animals,1,IMA Partner,TN,37064,Companion Animal,3,3,33790.48,2815.87,469.31,4,4,0,4591,1868,3
+2598,Nova Cat Clinic,1,VBS Partner,VA,22201,Companion Animal,11,2,47229.85,3935.82,302.76,255,75,21,4047,3622,4
+2078,NVA Nickerson Animal Health Center,1,VBS Partner,MI,49022,Companion Animal,4,3,31579.18,2631.6,375.94,86,9,7,3990,1033,3
+4276,Telford Veterinary Hospital,1,VBS Partner,PA,18964,Companion Animal,2,12,85482.06,7123.51,508.82,986,384,82,3988,2062,4
+2082,Best Pets Animal Clinic,1,IMA Partner,KY,40324,Companion Animal,1,0,35213.54,2934.46,2934.46,64,36,5,3856,1518,3
+4673,Rainbow Veterinary Clinic,1,VBS Partner,OH,44121,Companion Animal,2,6,87657.11,7304.76,913.09,727,293,61,3446,1605,4
+2973,Prince William Animal Hospital,1,VBS Partner,VA,20110,Companion Animal,6,30,54481.26,4540.11,126.11,576,338,48,3417,1315,4
+5855,Parkwood Animal Hospital,1,VBS Partner,TX,77546,Companion Animal,5,0,43525.62,3627.14,725.43,56,29,5,3400,2910,4
+2409,Hoffman Animal Hospital,1,VBS Partner,MD,21409,Companion Animal,7,10,45105.61,3758.8,221.11,219,122,18,2901,1955,4
+3049,Carver Lake Veterinary Center,1,VBS Partner,MN,55125,Companion Animal,5,1,30378.33,2531.53,421.92,69,47,6,2578,1829,3
+3127,Westerville Veterinary Clinic LLC,1,VBS Partner,OH,43081,Companion Animal,4,6,44261.87,3688.49,368.85,227,195,19,2564,1691,4
+2009,Centerville Animal Hospital,1,IMA Partner,VA,23322,Companion Animal,5,4,37760.04,3146.67,349.63,175,75,15,2534,2032,4
+2426,Kirkpatrick Veterinary Hospital,1,VBS Partner,FL,32806,Companion Animal,5,1,59999.27,4999.94,833.32,344,308,29,2455,1516,4
+4399,Maitland Veterinary Clinic,1,VBS Partner,FL,32751,Companion Animal,6,1,95160.39,7930.03,1132.86,147,81,12,2406,708,4
+3267,NVVA Companion Animal Clinic,1,IMA Partner,VA,22039,Companion Animal,9,4,33018.67,2751.56,211.66,155,91,13,2303,1511,3
+2179,"PawSteps Veterinary Center, Inc.",1,VBS Partner,MA,1534,Companion Animal,5,6,35377.6,2948.13,268.01,113,66,9,2261,1714,3
+3458,Countryside Animal Hospital,1,VBS Partner,FL,34772,Companion Animal,2,0,36721.35,3060.11,1530.06,57,37,5,2178,789,4
+1836,"Animal Hospital of New Albany, Inc.",1,IMA Partner,OH,43054,Companion Animal,2,4,39361.77,3280.15,546.69,3,1,0,2168,1381,4
+4678,Clevengers Corner Veterinary Care,1,VBS Partner,VA,20106,Companion Animal,6,2,68580.2,5715.02,714.38,24,16,2,2133,1566,4
+4203,Suffolk Veterinary Group Animal Wellness & Laser Surgery Center,1,VBS Partner,NY,11784,Companion Animal,4,1,53779.67,4481.64,896.33,1127,376,94,2027,1374,4
+3842,Nicks Veterinary Hospital,1,VBS Partner,NC,28217,Companion Animal,1,0,38843.81,3236.98,3236.98,553,189,46,1755,892,4
+1838,"Stonebrook Veterinary Clinic,PLLC",1,IMA Partner,TX,75034,Companion Animal,3,3,32775.56,2731.3,455.22,55,28,5,1699,1672,3
+4082,The Purr and Bark VMD,1,VBS Partner,NC,27616,Companion Animal,1,0,65243.47,5436.96,5436.96,142,81,12,1684,1232,4
+3422,Mandarin Veterinary Clinic,1,VBS Partner,FL,32223,Companion Animal,1,3,91767.32,7647.28,1911.82,101,43,8,1646,1253,4
+2620,Short Pump Animal Hospital,1,VBS Partner,VA,23059,Companion Animal,5,1,41862.73,3488.56,581.43,204,87,17,1619,1465,4
+11762,South Charlotte Animal Hospital,1,VBS Partner,NC,28134,Companion Animal,1,1,46240.3,3853.36,1926.68,175,67,15,1597,1131,4
+4400,Carolinas Veterinary Medical Hospital,1,VBS Partner,NC,28210,Companion Animal,5,10,81167.06,6763.92,450.93,277,177,23,1513,1235,4
+4483,Cotswold Animal Hospital,1,VBS Partner,NC,28211,Companion Animal,1,6,48546.91,4045.58,577.94,90,62,8,1399,1232,4
+5908,"NODA Animal Hospital, PLLC",1,VBS Partner,NC,28205,Companion Animal,1,1,32990.92,2749.24,1374.62,388,203,32,1228,1062,3
+3224,The Pet Doctor,1,IMA Partner,TN,38076,Companion Animal,1,1,44566.98,3713.92,1856.96,563,242,47,1147,471,4
+3245,Animal Diagnostic & Wellness Center,1,IMA Partner,FL,33617,Companion Animal,1,0,53488,4457.33,4457.33,516,289,43,597,501,4
+3056,Dr. Moomaw,1,VBS Partner,TX,75233,Companion Animal,1,0,33207.75,2767.31,2767.31,256,110,21,537,164,3
+2577,Dr. Cindy and Community Veterinary Services,1,VBS Partner,FL,32635,Companion Animal,1,0,32723.52,2726.96,2726.96,781,170,65,0,0,3
+2707,Bolton Veterinary Hospital,1,VBS Partner,CT,6043,Companion Animal,26,9,136432.78,11369.4,324.84,724,418,60,0,0,4
+73158,VETdispatch,1,IMA Partner,NJ,7836,Companion Animal,13,15,57859.83,4821.65,172.2,591,294,49,0,0,4
+2773,Veterinary House Calls,1,VBS Partner,AL,36527,Companion Animal,1,0,32936.1,2744.68,2744.68,562,174,47,0,0,3
+4817,Value Vet,1,IMA Partner,TN,37211,Companion Animal,27,13,97012.75,8084.4,202.11,398,109,33,0,0,4
+1898,Bay Area Veterinary Housecalls,1,IMA Partner,TX,77574,Companion Animal,1,0,71957.76,5996.48,5996.48,375,301,31,0,0,4
+3314,Lake Austin Boulevard Animal Hospital,1,VBS Partner,TX,78703,Companion Animal,17,1,85067.25,7088.94,393.83,333,108,28,0,0,4
+3524,Genoa Animal Hospital,1,VBS Partner,IL,60135,Companion Animal,4,2,54306.22,4525.52,754.25,316,197,26,0,0,4
+4286,Lotus Veterinary House Calls,1,VBS Partner,CA,94110,Companion Animal,5,1,36855.26,3071.27,511.88,305,187,25,0,0,4
+2565,Montville Animal Hospital,1,VBS Partner,NJ,7082,Companion Animal,12,2,42241.15,3520.1,251.44,293,165,24,0,0,4
+3515,Flint Veterinary Clinic,1,VBS Partner,TX,75762,Companion Animal,3,4,33027.94,2752.33,393.19,284,99,24,0,0,3
+3846,Town & Country Veterinary Hospital,1,VBS Partner,OH,44484,Companion Animal,10,3,84762.4,7063.53,543.35,279,139,23,0,0,4
+3083,Pet House Calls PLLC,1,VBS Partner,NC,27612,Companion Animal,3,0,42532.95,3544.41,1181.47,264,134,22,0,0,4
+4137,At Home Animal Care,1,VBS Partner,MD,20695,Companion Animal,1,0,32547.62,2712.3,2712.3,256,161,21,0,0,3
+3078,Maryland-Virginia Veterinary Behavioral Consulting,1,VBS Partner,MD,20914,Companion Animal,1,0,51484.35,4290.36,4290.36,253,185,21,0,0,4
+5751,Cherrydale Veterinary Clinic,1,VBS Partner,VA,22207,Companion Animal,10,1,85442.6,7120.22,647.29,217,128,18,0,0,4
+2649,Hyattsville Animal Hospital,1,VBS Partner,MD,20722,Companion Animal,3,1,30493.96,2541.16,635.29,203,138,17,0,0,3
+2000,Mobile Laser Veterinary Services,1,IMA Partner,NC,27529,Companion Animal,1,2,36179.97,3015,1005,196,72,16,0,0,4
+1888,Academy East & Middle Creek Veterinary Hospital,1,IMA Partner,NC,27526,Companion Animal,10,6,44728.56,3727.38,232.96,188,102,16,0,0,4
+5699,Hometown Veterinary Clinic,1,VBS Partner,IL,61612,Companion Animal,3,1,32235.51,2686.29,671.57,171,154,14,0,0,3
+3843,Lincoln Veterinary Services,1,VBS Partner,MA,1701,Companion Animal,1,0,35841.11,2986.76,2986.76,164,94,14,0,0,3
+3067,Poolesville Veterinary Clinic,1,VBS Partner,MD,20837,Companion Animal,6,2,45552.11,3796.01,474.5,135,92,11,0,0,4
+4120,Katy Trail Animal Hospital,1,IMA Partner,TX,75204,Companion Animal,11,0,52023.84,4335.32,394.12,130,87,11,0,0,4
+2798,Heart of Chelsea Animal Hospital,1,VBS Partner,NY,10011,Companion Animal,16,5,96072.76,8006.06,381.24,114,67,10,0,0,4
+4042,Animal Medical Center,1,VBS Partner,MO,64114,Companion Animal,7,2,30645.73,2553.81,283.76,107,60,9,0,0,3
+5827,Kingsbury Animal Hospital,1,VBS Partner,MO,63130,Companion Animal,4,2,34725.5,2893.79,482.3,99,54,8,0,0,3
+2019,Oakton Vienna Veterinary Hospital,1,VBS Partner,VA,22180,Companion Animal,6,3,34537.44,2878.12,319.79,91,42,8,0,0,3
+4354,Pennington Veterinary Care Center,1,VBS Partner,NJ,8534,Companion Animal,4,7,56843.87,4736.99,430.64,71,52,6,0,0,4
+4818,Value Vet,1,IMA Partner,GA,30044,Companion Animal,11,19,52712.24,4392.69,146.42,64,27,5,0,0,4
+4574,Houston Mobile Veterinary Clinic,1,VBS Partner,TX,77401,Companion Animal,1,2,34138.44,2844.87,948.29,60,33,5,0,0,3
+2889,"Melrose Animal Clinic, P.C.",1,VBS Partner,MA,2176,Companion Animal,7,1,31983.34,2665.28,333.16,58,41,5,0,0,3
+2810,Georgetown Veterinary Hospital,1,IMA Partner,DC,20007,Companion Animal,4,0,41172.83,3431.07,857.77,54,38,5,0,0,4
+2487,Caroline Animal Hospital Inc.,1,VBS Partner,VA,22514,Companion Animal,7,1,33833.57,2819.46,352.43,52,40,4,0,0,3
+3922,Sequoia Veterinary Hospital Inc.,1,VBS Partner,CA,94063,Companion Animal,11,3,41022.43,3418.54,244.18,50,39,4,0,0,4
+4315,Mt Airy Animal Hospital,1,IMA Partner,PA,19119,Companion Animal,9,13,42408.63,3534.05,160.64,47,31,4,0,0,4
+5733,Bowen Road Animal Clinic,1,VBS Partner,TX,76013,Companion Animal,3,1,39946.59,3328.88,832.22,42,20,4,0,0,4
+4753,Atlas Vet DC,1,VBS Partner,DC,20002,Companion Animal,6,7,71038.75,5919.9,455.38,36,30,3,0,0,4
+3146,Vet To Pet LLC,1,VBS Partner,PA,15101,Companion Animal,2,1,33065.32,2755.44,918.48,35,22,3,0,0,3
+2394,Town and Country Animal Hospital,1,IMA Partner,MI,48813,Companion Animal,3,4,32140.74,2678.4,382.63,34,30,3,0,0,3
+3646,"Fletcher Animal Hospital, P.A.",1,VBS Partner,NC,28732,Companion Animal,3,0,31659.91,2638.33,879.44,29,24,2,0,0,3
+1885,"Heights Hospital for Animals, Inc.",1,VBS Partner,TX,77008,Companion Animal,4,1,59688.29,4974.02,994.8,24,19,2,0,0,4
+2124,Blue Ridge Veterinary Associates Inc,1,IMA Partner,VA,20132,Companion Animal,10,4,48207.11,4017.26,286.95,14,7,1,0,0,4
+2341,Pine Village Veterinarian,1,VBS Partner,PA,15090,Companion Animal,3,2,32929.77,2744.15,548.83,12,11,1,0,0,3
+2127,Animal Care Hospital,1,IMA Partner,CA,92307,Companion Animal,2,2,42654.38,3554.53,888.63,11,9,1,0,0,4
+2515,Lovan Care Animal Clinic,1,VBS Partner,TX,77840,Companion Animal,1,0,44040.78,3670.07,3670.07,11,8,1,0,0,4
+2081,Critterfixers Mobile Veterinary Care,1,IMA Partner,VA,22315,Companion Animal,1,0,30442.83,2536.9,2536.9,9,6,1,0,0,3
+2107,The Village Vets,1,IMA Partner,GA,30030,Companion Animal,33,21,118056.52,9838.04,182.19,6,5,1,0,0,4
+1907,Olsen Vet Clinic,1,IMA Partner,IL,62034,Companion Animal,1,0,33299.55,2774.96,2774.96,3,2,0,0,0,3
