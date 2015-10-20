@@ -67,7 +67,7 @@ df_f_amount = []
 for index, row in loansData.iterrows():
 	if row['lessthan12'] == True:
 		df_t_score.append(row['FICO.Score'])
-		df_t_amount.append(row['Amount.Requested'])
+		df_t_amount.append(row['Amount.Requested'])		
 	else:
 		df_f_score.append(row['FICO.Score'])
 		df_f_amount.append(row['Amount.Requested'])
